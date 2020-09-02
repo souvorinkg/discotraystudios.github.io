@@ -23,7 +23,7 @@ sections:
   - type: services.html
     section_id: services
     #background_style: bg-info
-    title: At Your Service
+    title: At Your Service -- Do we want to keep this, if so what should we put?
     services:
       - title: Sturdy Templates
         text: Our templates are updated regularly so they don't break.
@@ -78,13 +78,13 @@ sections:
         icon: 6.jpg
         url: '#'
 
-  - type: aside.html
-    section_id: aside
-    title: Free Download at Start Bootstrap!
-    actions:
-      - title: Download Now!
-        url: https://startbootstrap.com/themes/creative/
-        class: btn-light
+  # - type: aside.html
+  #   section_id: aside
+  #   title: Free Download at Start Bootstrap!
+  #   actions:
+  #     - title: Download Now!
+  #       url: https://startbootstrap.com/themes/creative/
+  #       class: btn-light
 
   - type: members.html
     section_id: members
@@ -92,27 +92,27 @@ sections:
     background_style: bg-info text-white
     members:
       - title: DR. MARK GOADRICH
-        text: Computer Science Professor
+        text: Very fond of lemurs
         image: assets/img/members/DrGoadrich.png
         url: '#'
       - title: LUCY LYON
-        text: Software Developer
+        text: Trying her best
         image: assets/img/members/Lucy.png
         url: '#'
       - title: Innocent Nsabimana
-        text: Software Developer
+        text: Intimidating but cool
         image: assets/img/members/Innocent.jpg
         url: '#'
       - title: ANDREW EVELD
-        text: Software Developer
+        text: Has had an adult job before
         image: assets/img/members/Andrew.jpg
         url: '#'
       - title: IVY JACKSON
-        text: Software Developer
+        text: Seems dope but tbd
         image: assets/img/members/Ivy.jpg
         url: '#'
       - title: Griffith Samore
-        text: Software Developer
+        text: Broccli Headed Ass Bitch
         image: assets/img/members/Grifith.png
         url: '#'
 
@@ -124,29 +124,26 @@ sections:
     actions:
       - image: assets/img/portfolio/thumbnails/1.jpg
         title: >+
-          2017-2018
-          **Humble Beginnings**
+          July 2020 - Founded
         text: >-
-          We begun with small group of people willing to work hard and make our
-          teaching skills worth , in front of all others!
+          Dr. Goadrich got funding to hire 5 students for the school yea
       - image: assets/img/portfolio/thumbnails/2.jpg
         title: >+
-          November 2019
-          An Coaching started
+          September 2020 - My Life In Months Completed
         text: >-
-          We started to gather like minded people and started our stategies
-          and future plans to them. As a result , interested people joined us!
+          Description for my life in months  
 
   - type: contact.html
     section_id: contacts
     title: Let's Get In Touch!
     text: >-
-      Ready to start your next project with us? Give us a call or send us an email
+      Ready to start your next project with us? Send us an email
       and we will get back to you as soon as possible!
     actions:
-    - title: E-Mail
-      icon: fa-envelope
-      url: discotraystudios@gmail.com
+    - title: Github
+      icon: fa-github
+      icon_type: fab
+      url: https://github.com/DiscoTrayStudios
     - title: Twitter
       icon: fa-twitter
       icon_type: fab
