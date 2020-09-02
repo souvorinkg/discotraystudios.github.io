@@ -20,43 +20,43 @@ sections:
         url: '#page-top'
         class: btn-light
 
-  - type: services.html
-    section_id: services
-    #background_style: bg-info
-    title: At Your Service -- Do we want to keep this, if so what should we put?
-    services:
-      - title: Sturdy Templates
-        text: Our templates are updated regularly so they don't break.
-        icon: fa-gem text-info
-        url: https://startbootstrap.com/
-      - title: Ready to Ship
-        text: You can use this theme as is, or you can make changes!
-        icon: fa-paper-plane
-      - title: Up to Date
-        text: We update dependencies to keep things fresh.
-        icon: fa-laptop-code
-      - title: Made with Love
-        text: You have to make your websites with love these days!
-        icon: fa-heart
-      - title: Other 1
-        text: Some not-so long text here.
-        icon: fa-heart
-      - title: Other 2
-        text: Some not-so long text here.
-        icon: fa-heart
+#   - type: services.html
+#     section_id: services
+#     #background_style: bg-info
+#     title: At Your Service -- Do we want to keep this, if so what should we put?
+#     services:
+#       - title: Sturdy Templates
+#         text: Our templates are updated regularly so they don't break.
+#         icon: fa-gem text-info
+#         url: https://startbootstrap.com/
+#       - title: Ready to Ship
+#         text: You can use this theme as is, or you can make changes!
+#         icon: fa-paper-plane
+#       - title: Up to Date
+#         text: We update dependencies to keep things fresh.
+#         icon: fa-laptop-code
+#       - title: Made with Love
+#         text: You have to make your websites with love these days!
+#         icon: fa-heart
+#       - title: Other 1
+#         text: Some not-so long text here.
+#         icon: fa-heart
+#       - title: Other 2
+#         text: Some not-so long text here.
+#         icon: fa-heart
 
   - type: portfolio.html
     # this section has always ID 'portfolio'
     #section_id: portfolio
     #background_style: bg-dark
     projects:
-      - title: Project 1
-        text: This is a very short project description.
+      - title: My Life In Months
+        text: Make a graph of your life throughout the months!
         # the images are located in:
         # img/portfolio/fullsize
         # img/portfolio/thumbnails
         icon: 1.jpg
-        url: '#'
+        url: '#https://discotraystudios.github.io/my-life-in-months/'
       - title: Project 2
         text: This is a very short project description.
         icon: 2.jpg
