@@ -68,7 +68,7 @@ sections:
 
   - type: timeline.html
     section_id: timeline
-    title: Major Achievements!
+    title: Timeline
     background_style: bg-dark text-primary
     last_image: assets/img/timeline-end.png
     actions:
@@ -76,7 +76,7 @@ sections:
         title: >+
           July 2020 - Founded
         text: >-
-          Dr. Goadrich got funding to hire 5 students for the school yea
+          Dr. Goadrich got funding to hire 5 students for the school year
       - image: assets/img/portfolio/thumbnails/2.jpg
         title: >+
           September 2020 - My Life In Months Completed
