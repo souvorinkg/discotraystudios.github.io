@@ -36,6 +36,48 @@ sections:
         image: assets/img/logo500.png
         url: http://127.0.0.1:4000/creative-theme-jekyll-new/elements
 
+  - type: portfolio.html
+    # this section has always ID 'portfolio'
+    section_id: portfolio
+    background_style: bg-dark
+    projects:
+      - title: My Life In Months
+        text: Make a graph of your life throughout the months!
+        # the images are located in:
+        # img/portfolio/fullsize
+        # img/portfolio/thumbnails
+        icon: 1.jpg
+        url: '#https://discotraystudios.github.io/my-life-in-months/'
+      - title: Project 2
+        text: This is a very short project description.
+        icon: 2.jpg
+        url: http://127.0.0.1:4000/creative-theme-jekyll-new/elements
+      - title: Project 3
+        text: This is a very short project description.
+        icon: 3.jpg
+        url: '#'
+      - title: Project 4
+        text: This is a very short project description.
+        icon: 4.jpg
+        url: '#'
+      - title: Project 5
+        text: This is a very short project description.
+        icon: 5.jpg
+        url: '#'
+      - title: Project 6
+        text: This is a very short project description.
+        icon: 6.jpg
+        url: '#'
+        link: http://127.0.0.1:4000/creative-theme-jekyll-new/elements
+
+  # - type: aside.html
+  #   section_id: aside
+  #   title: Free Download at Start Bootstrap!
+  #   actions:
+  #     - title: Download Now!
+  #       url: https://startbootstrap.com/themes/creative/
+  #       class: btn-light
+
   - type: members.html
     section_id: members
     title: Our Crew!
@@ -70,14 +112,14 @@ sections:
     section_id: timeline
     title: Timeline
     background_style: bg-dark text-primary
-    last_image: assets/img/timeline-end.png
+    last_image: assets/img/DiscoTray_logo_bling-2.png
     actions:
-      - image: assets/img/portfolio/thumbnails/1.jpg
+      - image: assets/img/bland-logo.png
         title: >+
           July 2020 - Founded
         text: >-
           Dr. Goadrich got funding to hire 5 students for the school year
-      - image: assets/img/portfolio/thumbnails/2.jpg
+      - image: assets/img/logo500.png
         title: >+
           September 2020 - My Life In Months Completed
         text: >-
