@@ -36,48 +36,6 @@ sections:
         image: assets/img/logo500.png
         url: http://127.0.0.1:4000/creative-theme-jekyll-new/elements
 
-  - type: portfolio.html
-    # this section has always ID 'portfolio'
-    section_id: portfolio
-    background_style: bg-dark
-    projects:
-      - title: My Life In Months
-        text: Make a graph of your life throughout the months!
-        # the images are located in:
-        # img/portfolio/fullsize
-        # img/portfolio/thumbnails
-        icon: 1.jpg
-        url: '#https://discotraystudios.github.io/my-life-in-months/'
-      - title: Project 2
-        text: This is a very short project description.
-        icon: 2.jpg
-        url: http://127.0.0.1:4000/creative-theme-jekyll-new/elements
-      - title: Project 3
-        text: This is a very short project description.
-        icon: 3.jpg
-        url: '#'
-      - title: Project 4
-        text: This is a very short project description.
-        icon: 4.jpg
-        url: '#'
-      - title: Project 5
-        text: This is a very short project description.
-        icon: 5.jpg
-        url: '#'
-      - title: Project 6
-        text: This is a very short project description.
-        icon: 6.jpg
-        url: '#'
-        link: http://127.0.0.1:4000/creative-theme-jekyll-new/elements
-
-  # - type: aside.html
-  #   section_id: aside
-  #   title: Free Download at Start Bootstrap!
-  #   actions:
-  #     - title: Download Now!
-  #       url: https://startbootstrap.com/themes/creative/
-  #       class: btn-light
-
   - type: members.html
     section_id: members
     title: Our Crew!
