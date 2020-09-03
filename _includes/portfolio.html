@@ -2,7 +2,7 @@
   <div class="container-fluid p-0">
     <div class="row no-gutters">
       {% for proj in section.projects %}
-      <div class="col-lg-4 col-sm-6">
+      <div class="col-lg-4 col-sm-6 m-2">
         <a class="portfolio-box" href="assets/img/portfolio/fullsize/{{ proj.icon }}">
           <img class="img-fluid" src="assets/img/portfolio/thumbnails/{{ proj.icon }}" alt="">
           <div class="portfolio-box-caption">
@@ -12,6 +12,8 @@
             <div class="project-name">
               {{ proj.text }}
             </div>
+            <!-- <a href="{{proj.link}}">Check it out</a>
+            <button class="btn-info"><a href="{{proj.link}}">Check it out</a></button> -->
           </div>
         </a>
       </div>

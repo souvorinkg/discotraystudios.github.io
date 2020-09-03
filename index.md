@@ -23,32 +23,23 @@ sections:
   - type: services.html
     section_id: services
     #background_style: bg-info
-    title: At Your Service
+    title: Our Projects
     services:
-      - title: Sturdy Templates
-        text: Our templates are updated regularly so they don't break.
+      - title: My Life In Months
+        text: My Life in Months is a website that allows you to make a chart of your life throughout the months.
         icon: fa-gem text-info
-        url: https://startbootstrap.com/
-      - title: Ready to Ship
-        text: You can use this theme as is, or you can make changes!
-        icon: fa-paper-plane
-      - title: Up to Date
-        text: We update dependencies to keep things fresh.
-        icon: fa-laptop-code
-      - title: Made with Love
-        text: You have to make your websites with love these days!
-        icon: fa-heart
-      - title: Other 1
-        text: Some not-so long text here.
-        icon: fa-heart
-      - title: Other 2
-        text: Some not-so long text here.
-        icon: fa-heart
+        image: assets/img/logo500.png
+        url: http://127.0.0.1:4000/creative-theme-jekyll-new/elements
+      - title: My Life In Months
+        text: My Life in Months is a website that allows you to make a chart of your life throughout the months.
+        icon: fa-gem text-info
+        image: assets/img/logo500.png
+        url: http://127.0.0.1:4000/creative-theme-jekyll-new/elements
 
   - type: portfolio.html
     # this section has always ID 'portfolio'
-    #section_id: portfolio
-    #background_style: bg-dark
+    section_id: portfolio
+    background_style: bg-dark
     projects:
       - title: Project 1
         text: This is a very short project description.
@@ -56,11 +47,11 @@ sections:
         # img/portfolio/fullsize
         # img/portfolio/thumbnails
         icon: 1.jpg
-        url: '#'
+        url: https://startbootstrap.com/
       - title: Project 2
         text: This is a very short project description.
         icon: 2.jpg
-        url: '#'
+        url: http://127.0.0.1:4000/creative-theme-jekyll-new/elements
       - title: Project 3
         text: This is a very short project description.
         icon: 3.jpg
@@ -77,14 +68,7 @@ sections:
         text: This is a very short project description.
         icon: 6.jpg
         url: '#'
-
-  - type: aside.html
-    section_id: aside
-    title: Free Download at Start Bootstrap!
-    actions:
-      - title: Download Now!
-        url: https://startbootstrap.com/themes/creative/
-        class: btn-light
+        link: http://127.0.0.1:4000/creative-theme-jekyll-new/elements
 
   - type: members.html
     section_id: members
