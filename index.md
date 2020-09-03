@@ -112,7 +112,7 @@ sections:
     section_id: timeline
     title: Timeline
     background_style: bg-dark text-primary
-    last_image: assets/img/DiscoTray_logo_bling-2.png
+    last_image: assets/img/tdc.png
     actions:
       - image: assets/img/bland-logo.png
         title: >+
@@ -123,7 +123,7 @@ sections:
         title: >+
           September 2020 - My Life In Months Completed
         text: >-
-          Description for my life in months  
+          A website where you can document your life throughout the months
 
   - type: contact.html
     section_id: contacts

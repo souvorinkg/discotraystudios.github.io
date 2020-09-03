@@ -9,7 +9,7 @@
           {% for action in section.actions %}
           <li class="{% cycle 'timeline-normal', 'timeline-inverted' %}">
             <div>
-            <img height="2px" class="rounded img-responsive timeline-image" src="{{ action.image }}" alt="">
+            <img style='height:70%'; class="rounded img-responsive timeline-image" src="{{ action.image }}" alt="">
             </div>
             <div class="timeline-panel">
               <div class="timeline-heading">
@@ -21,11 +21,11 @@
             </div>
           </li>
           {% endfor %}
-          <!-- <li class="timeline-inverted">
+          <li class="timeline-inverted">
             <div >
-              <img class="rounded img-responsive timeline-image" src="{{ section.last_image }}" alt="">
+              <img style='height:70%'; class="rounded img-responsive timeline-image" src="{{ section.last_image }}" alt="">
               </div>
-          </li> -->
+          </li> 
         </ul>
       </div>
     </div>
