@@ -91,7 +91,7 @@ sections:
         text: Trying her best
         image: assets/img/members/Lucy.png
         url: '#'
-      - title: Innocent Nsabimana
+      - title: INNOCENT NSABIMANA
         text: Intimidating but cool
         image: assets/img/members/Innocent.jpg
         url: '#'
@@ -103,7 +103,7 @@ sections:
         text: Seems dope but tbd
         image: assets/img/members/Ivy.jpg
         url: '#'
-      - title: Griffith Samore
+      - title: GRIFFITH SAMORE
         text: Broccli Headed Ass Bitch
         image: assets/img/members/Grifith.png
         url: '#'
