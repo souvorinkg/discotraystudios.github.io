@@ -4,9 +4,9 @@ header:
   title: Disco Tray Studios
   text: >
     We explore how technology can address social, community, and educational issues through game development, mobile apps, and web systems/databases.
-  action: # action button is optional
-    label: Find Out More
-    url: '#about'
+  # action: # action button is optional
+  #   label: Find Out More
+  #   url: '#about'
 
 
 sections:
@@ -15,10 +15,10 @@ sections:
     background_style: bg-primary
     title: Our Mission
     text: Disco Tray Studios is a community-focused software development initiative at Hendrix College in Conway, Arkansas. We are five students led by Professor of Computer Science, Dr.Mark Goadrich. This project aims to empower students in developing interactive educational games for social good and provide opportunities for student to execute and complete longer-term software development projects that support the technological needs of the local community.
-    actions:
-      - title: Get Started!
-        url: '#page-top'
-        class: btn-light
+    # actions:
+    #   - title: Get Started!
+    #     url: '#page-top'
+    #     class: btn-light
 
   - type: services.html
     section_id: services
