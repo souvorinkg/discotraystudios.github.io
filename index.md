@@ -86,11 +86,11 @@ sections:
       - title: DR. MARK GOADRICH
         text: Very fond of lemurs
         image: assets/img/members/DrGoadrich.png
-        url: '#'
+        url: 'http://mark.goadrich.com/'
       - title: LUCY LYON
         text: Trying her best
         image: assets/img/members/Lucy.png
-        url: '#'
+        url: 'https://lucylyon.github.io/'
       - title: INNOCENT NSABIMANA
         text: Intimidating but cool
         image: assets/img/members/Innocent.jpg
@@ -98,15 +98,15 @@ sections:
       - title: ANDREW EVELD
         text: Has had an adult job before
         image: assets/img/members/Andrew.jpg
-        url: '#'
+        url: 'https://andreweveld.github.io/csci340blog/index.html'
       - title: IVY JACKSON
         text: Seems dope but tbd
         image: assets/img/members/Ivy.jpg
-        url: '#'
+        url: 'https://ivyjsgit.github.io'
       - title: GRIFFITH SAMORE
         text: Broccli Headed Ass Bitch
         image: assets/img/members/Grifith.png
-        url: '#'
+        url: 'https://samorege.github.io/hdxCompBlog/'
 
   - type: timeline.html
     section_id: timeline
