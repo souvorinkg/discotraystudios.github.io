@@ -112,7 +112,7 @@ sections:
     section_id: timeline
     title: Timeline
     background_style: bg-dark text-primary
-    last_image: assets/img/tdc.png
+    # last_image: assets/img/tdc.png
     actions:
       - image: assets/img/bland-logo.png
         title: >+

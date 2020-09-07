@@ -69,9 +69,9 @@ body {
  font-size: 1rem;
   font-weight: 400;
   line-height: 1.5;
-  color: #fff; //changes font color for main stuff
+  color: #3d3d3d; //changes font color for main stuff
   text-align: left;
-  background-color: #3D3D3D; //background color
+  background-color: #FBC863; //background color
 }
 
 [tabindex="-1"]:focus:not(:focus-visible) {
@@ -522,7 +522,7 @@ a > code {
 kbd {
   padding: 0.2rem 0.4rem;
   font-size: 87.5%;
-  color: #fff;
+  color: #fff; //nothing noticable
   background-color: #fff;
   border-radius: 0.2rem;
 }
@@ -535,7 +535,7 @@ kbd kbd {
 pre {
   display: block;
   font-size: 87.5%;
-  color: #fff;
+  color: #a71d2a;
 }
 pre code {
   font-size: inherit;
@@ -9755,7 +9755,7 @@ button.bg-dark:focus {
 }
 
 .text-primary {
-  color: #00A79D !important;
+  color: #fff !important;
 }
 
 a.text-primary:hover, a.text-primary:focus {
@@ -9767,7 +9767,7 @@ a.text-primary:hover, a.text-primary:focus {
 }
 
 a.text-secondary:hover, a.text-secondary:focus {
-  color: #494f54 !important;
+  color: #fff !important;
 }
 
 .text-success {
