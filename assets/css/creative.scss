@@ -26,7 +26,7 @@
   --cyan: #17a2b8;
   --white: #fff;
   --gray: #3D3D3D;
-  --gray-dark: #343a40;
+ // --gray-dark: #343a40;
   --primary: #882065;
   --secondary: #3D3D3D;
   --success: #00A79D;
@@ -34,7 +34,7 @@
   --warning: #ffc107;
   --danger: #dc3545;
   --light: #f8f9fa;
-  --dark: #343a40;
+  --dark: #3D3D3D;
   --breakpoint-xs: 0;
   --breakpoint-sm: 576px;
   --breakpoint-md: 768px;
@@ -69,9 +69,9 @@ body {
  font-size: 1rem;
   font-weight: 400;
   line-height: 1.5;
-  color: #3D3D3D;
+  color: #fff; //changes font color for main stuff
   text-align: left;
-  background-color: #fff;
+  background-color: #3D3D3D; //background color
 }
 
 [tabindex="-1"]:focus:not(:focus-visible) {
@@ -489,7 +489,7 @@ mark,
 
 .img-thumbnail {
   padding: 0.25rem;
-  background-color: #3D3D3D;
+  background-color: #dee2e6;
   border: 1px solid #dee2e6;
   border-radius: 0.25rem;
   max-width: 100%;
@@ -507,7 +507,7 @@ mark,
 
 .figure-caption {
   font-size: 90%;
-  color: #3D3D3D;
+  color: #fff;
 }
 
 code {
@@ -523,7 +523,7 @@ kbd {
   padding: 0.2rem 0.4rem;
   font-size: 87.5%;
   color: #fff;
-  background-color: #3D3D3D;
+  background-color: #fff;
   border-radius: 0.2rem;
 }
 kbd kbd {
@@ -535,7 +535,7 @@ kbd kbd {
 pre {
   display: block;
   font-size: 87.5%;
-  color: #3D3D3D;
+  color: #fff;
 }
 pre code {
   font-size: inherit;
@@ -1686,7 +1686,7 @@ pre code {
 .table {
   width: 100%;
   margin-bottom: 1rem;
-  color: #3D3D3D;
+  color: #fff;
 }
 .table th,
 .table td {
@@ -1727,11 +1727,11 @@ pre code {
 }
 
 .table-striped tbody tr:nth-of-type(odd) {
-  background-color: rgba(0, 0, 0, 0.05);
+  background-color: rgba(0, 0, 0, 0);
 }
 
 .table-hover tbody tr:hover {
-  color: #3D3D3D;
+  color: #fff;
   background-color: rgba(0, 0, 0, 0.075);
 }
 
@@ -1911,7 +1911,7 @@ pre code {
 
 .table .thead-dark th {
   color: #fff;
-  background-color: #343a40;
+  background-color: #fff;
   border-color: #454d55;
 }
 .table .thead-light th {
@@ -1922,7 +1922,7 @@ pre code {
 
 .table-dark {
   color: #fff;
-  background-color: #343a40;
+  background-color: #3D3D3D;
 }
 .table-dark th,
 .table-dark td,
@@ -2674,8 +2674,8 @@ fieldset:disabled a.btn {
 
 .btn-dark {
   color: #fff;
-  background-color: #343a40;
-  border-color: #343a40;
+  background-color: #3D3D3D;
+  border-color: #3D3D3D;
 }
 .btn-dark:hover {
   color: #fff;
@@ -2690,8 +2690,8 @@ fieldset:disabled a.btn {
 }
 .btn-dark.disabled, .btn-dark:disabled {
   color: #fff;
-  background-color: #343a40;
-  border-color: #343a40;
+  background-color: #3D3D3D;
+  border-color: #3D3D3D;
 }
 .btn-dark:not(:disabled):not(.disabled):active, .btn-dark:not(:disabled):not(.disabled).active, .show > .btn-dark.dropdown-toggle {
   color: #fff;
@@ -2878,25 +2878,25 @@ fieldset:disabled a.btn {
 }
 
 .btn-outline-dark {
-  color: #343a40;
-  border-color: #343a40;
+  color: #3D3D3D;
+  border-color: #3D3D3D;
 }
 .btn-outline-dark:hover {
   color: #fff;
-  background-color: #343a40;
-  border-color: #343a40;
+  background-color: #3D3D3D;
+  border-color: #3D3D3D;
 }
 .btn-outline-dark:focus, .btn-outline-dark.focus {
   box-shadow: 0 0 0 0.2rem rgba(52, 58, 64, 0.5);
 }
 .btn-outline-dark.disabled, .btn-outline-dark:disabled {
-  color: #343a40;
+  color: #3D3D3D;
   background-color: transparent;
 }
 .btn-outline-dark:not(:disabled):not(.disabled):active, .btn-outline-dark:not(:disabled):not(.disabled).active, .show > .btn-outline-dark.dropdown-toggle {
   color: #fff;
-  background-color: #343a40;
-  border-color: #343a40;
+  background-color: #3D3D3D;
+  border-color: #3D3D3D;
 }
 .btn-outline-dark:not(:disabled):not(.disabled):active:focus, .btn-outline-dark:not(:disabled):not(.disabled).active:focus, .show > .btn-outline-dark.dropdown-toggle:focus {
   box-shadow: 0 0 0 0.2rem rgba(52, 58, 64, 0.5);
@@ -3011,7 +3011,7 @@ input[type=button].btn-block {
   padding: 0.5rem 0;
   margin: 0.125rem 0 0;
   font-size: 1rem;
-  color: #3D3D3D;
+  color: #fff;
   text-align: left;
   list-style: none;
   background-color: #fff;
@@ -3168,7 +3168,7 @@ input[type=button].btn-block {
   padding: 0.25rem 1.5rem;
   clear: both;
   font-weight: 400;
-  color: #3D3D3D;
+  color: #fff;
   text-align: inherit;
   white-space: nowrap;
   background-color: transparent;
@@ -3185,7 +3185,7 @@ input[type=button].btn-block {
   background-color: #00A79D; //changes color for buttons
 }
 .dropdown-item.disabled, .dropdown-item:disabled {
-  color: #3D3D3D;
+  color: #fff;
   pointer-events: none;
   background-color: transparent;
 }
@@ -3906,7 +3906,7 @@ input[type=button].btn-block {
   text-decoration: none;
 }
 .nav-link.disabled {
-  color: #3D3D3D;
+  color: #fff;
   pointer-events: none;
   cursor: default;
 }
@@ -3926,13 +3926,13 @@ input[type=button].btn-block {
   border-color: #e9ecef #e9ecef #dee2e6;
 }
 .nav-tabs .nav-link.disabled {
-  color: #3D3D3D;
+  color: #fff;
   background-color: transparent;
   border-color: transparent;
 }
 .nav-tabs .nav-link.active,
 .nav-tabs .nav-item.show .nav-link {
-  color: #495057;
+  color: #fff;
   background-color: #fff;
   border-color: #dee2e6 #dee2e6 #fff;
 }
@@ -4259,41 +4259,41 @@ input[type=button].btn-block {
 }
 
 .navbar-light .navbar-brand {
-  color: rgba(0, 0, 0, 0.9);
+  color: rgba(0, 0, 0, 0); //all of these nav bar main opaqueness
 }
 .navbar-light .navbar-brand:hover, .navbar-light .navbar-brand:focus {
-  color: rgba(0, 0, 0, 0.9);
+  color: rgba(0, 0, 0, 0);
 }
 .navbar-light .navbar-nav .nav-link {
-  color: rgba(0, 0, 0, 0.5);
+  color: rgba(0, 0, 0, 0);
 }
 .navbar-light .navbar-nav .nav-link:hover, .navbar-light .navbar-nav .nav-link:focus {
-  color: rgba(0, 0, 0, 0.7);
+  color: rgba(0, 0, 0, 0);
 }
 .navbar-light .navbar-nav .nav-link.disabled {
-  color: rgba(0, 0, 0, 0.3);
+  color: rgba(0, 0, 0, 0);
 }
 .navbar-light .navbar-nav .show > .nav-link,
 .navbar-light .navbar-nav .active > .nav-link,
 .navbar-light .navbar-nav .nav-link.show,
 .navbar-light .navbar-nav .nav-link.active {
-  color: rgba(0, 0, 0, 0.9);
+  color: rgba(0, 0, 0, 0);
 }
 .navbar-light .navbar-toggler {
   color: rgba(0, 0, 0, 0.5);
-  border-color: rgba(0, 0, 0, 0.1);
+  border-color: rgba(0, 0, 0, 0);
 }
 .navbar-light .navbar-toggler-icon {
   background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' width='30' height='30' viewBox='0 0 30 30'%3e%3cpath stroke='rgba(0, 0, 0, 0.5)' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
 }
 .navbar-light .navbar-text {
-  color: rgba(0, 0, 0, 0.5);
+  color: rgba(0, 0, 0, 0);
 }
 .navbar-light .navbar-text a {
-  color: rgba(0, 0, 0, 0.9);
+  color: rgba(0, 0, 0, 0);
 }
 .navbar-light .navbar-text a:hover, .navbar-light .navbar-text a:focus {
-  color: rgba(0, 0, 0, 0.9);
+  color: rgba(0, 0, 0, 0);
 }
 
 .navbar-dark .navbar-brand {
@@ -4303,13 +4303,13 @@ input[type=button].btn-block {
   color: #fff;
 }
 .navbar-dark .navbar-nav .nav-link {
-  color: rgba(255, 255, 255, 0.5);
+  color: rgba(255, 255, 255,1);
 }
 .navbar-dark .navbar-nav .nav-link:hover, .navbar-dark .navbar-nav .nav-link:focus {
-  color: rgba(255, 255, 255, 0.75);
+  color: rgba(255, 255, 255,1);
 }
 .navbar-dark .navbar-nav .nav-link.disabled {
-  color: rgba(255, 255, 255, 0.25);
+  color: rgba(255, 255, 255,1);
 }
 .navbar-dark .navbar-nav .show > .nav-link,
 .navbar-dark .navbar-nav .active > .nav-link,
@@ -4780,7 +4780,7 @@ a.badge-light:focus, a.badge-light.focus {
 
 .badge-dark {
   color: #fff;
-  background-color: #343a40;
+  background-color: #3D3D3D;
 }
 a.badge-dark:hover, a.badge-dark:focus {
   color: #fff;
@@ -6144,7 +6144,7 @@ button.bg-light:focus {
 }
 
 .bg-dark {
-  background-color: #343a40 !important;
+  background-color: #3D3D3D !important;
 }
 
 a.bg-dark:hover, a.bg-dark:focus,
@@ -6230,7 +6230,7 @@ button.bg-dark:focus {
 }
 
 .border-dark {
-  border-color: #343a40 !important;
+  border-color: #3D3D3D !important;
 }
 
 .border-white {
@@ -9763,7 +9763,7 @@ a.text-primary:hover, a.text-primary:focus {
 }
 
 .text-secondary {
-  color: #3D3D3D !important;
+  color: #fff !important;
 }
 
 a.text-secondary:hover, a.text-secondary:focus {
@@ -9811,7 +9811,7 @@ a.text-light:hover, a.text-light:focus {
 }
 
 .text-dark {
-  color: #343a40 !important;
+  color: #3D3D3D !important;
 }
 
 a.text-dark:hover, a.text-dark:focus {
@@ -9819,7 +9819,7 @@ a.text-dark:hover, a.text-dark:focus {
 }
 
 .text-body {
-  color: #3D3D3D !important;
+  color: #fff !important;
 }
 
 .text-muted {
@@ -10008,54 +10008,56 @@ hr.light {
   padding: 0.75rem 0;
 }
 #mainNav .navbar-nav .nav-item .nav-link:hover, #mainNav .navbar-nav .nav-item .nav-link:active {
-  color: #00A79D;
+  color: #fff;
 }
 #mainNav .navbar-nav .nav-item .nav-link.active {
-  color: #00A79D !important;
+  color: #fff !important;
 }
 @media (min-width: 992px) {
   #mainNav {
     box-shadow: none;
-    background-color: transparent;
+    background-color: black; //navbar color on main page
   }
   #mainNav .navbar-brand {
-    color: rgba(255, 255, 255, 0.7);
+    color: #fff; // changes title color 
   }
   #mainNav .navbar-brand:hover {
-    color: #3D3D3D;
+    color: #FBC863; //title color when hovered over
   }
   #mainNav .navbar-nav .nav-item .nav-link {
-    color: rgba(255, 255, 255, 0.7);
+    color: rgba(255, 255, 255, 1); //changes nav bar text sections
     padding: 0 1rem;
   }
   #mainNav .navbar-nav .nav-item .nav-link:hover {
-    color: #3D3D3D;
+    color: #FBC863; //color for nav bar when hovered over
   }
   #mainNav .navbar-nav .nav-item:last-child .nav-link {
     padding-right: 0;
   }
   #mainNav.navbar-scrolled {
     box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
-    background-color: #3D3D3D;
+    background-color: #000000; //changes color of nav bar when scrolling
   }
   #mainNav.navbar-scrolled .navbar-brand {
-    color: #3D3D3D;
+    color: #fff; //color for title for nav bar
   }
   #mainNav.navbar-scrolled .navbar-brand:hover {
-    color: #00A79D;
+    color: #FBC863; //color for title for nav bar when hovered
   }
   #mainNav.navbar-scrolled .navbar-nav .nav-item .nav-link {
-    color: #3D3D3D;
+    color: #fff; //color for nav bar when scrolled
   }
   #mainNav.navbar-scrolled .navbar-nav .nav-item .nav-link:hover {
-    color: #00A79D;
+    color: #FBC863;
   }
 }
 
 header.masthead {
   padding-top: 10rem;
   padding-bottom: calc(10rem - 4.5rem);
-  background: linear-gradient(to bottom, rgba(92, 77, 66, 0.8) 0%, rgba(92, 77, 66, 0.8) 100%), url("../img/sparkle.jpg");
+  //background: linear-gradient(to bottom, rgba(92, 77, 66, 0.8) 0%, rgba(92, 77, 66, 0.8) 100%), url("../img/sparkle.jpg");
+  // transparancy of background
+  background: url("../img/sparkle.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: scroll;
@@ -10102,7 +10104,7 @@ header.masthead h1 {
   bottom: 0;
   text-align: center;
   opacity: 0;
-  color: #3d3d3d;
+  color: #fff; 
   background: rgba(244, 98, 58, 0.9);
   transition: opacity 0.25s ease;
   text-align: center;
@@ -10121,5 +10123,5 @@ header.masthead h1 {
 }
 
 .text-white-75 {
-  color: rgba(255, 255, 255, 0.75);
+  color: rgba(255, 255, 255, 1); //transparancy of little text on home page
 }

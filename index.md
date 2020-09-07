@@ -84,27 +84,27 @@ sections:
     background_style: bg-info text-white
     members:
       - title: DR. MARK GOADRICH
-        text: Very fond of lemurs
+        text: description
         image: assets/img/members/DrGoadrich.png
         url: 'http://mark.goadrich.com/'
       - title: LUCY LYON
-        text: Trying her best
+        text: description
         image: assets/img/members/Lucy.png
         url: 'https://lucylyon.github.io/'
       - title: INNOCENT NSABIMANA
-        text: Intimidating but cool
+        text: description
         image: assets/img/members/Innocent.jpg
-        url: '#'
+        url: 'https://nsabimana1.github.io/csci340blog//about/'
       - title: ANDREW EVELD
-        text: Has had an adult job before
+        text: description
         image: assets/img/members/Andrew.jpg
         url: 'https://andreweveld.github.io/csci340blog/index.html'
       - title: IVY JACKSON
-        text: Seems dope but tbd
+        text: description
         image: assets/img/members/Ivy.jpg
         url: 'https://ivyjsgit.github.io'
       - title: GRIFFITH SAMORE
-        text: Broccli Headed Ass Bitch
+        text: description
         image: assets/img/members/Grifith.png
         url: 'https://samorege.github.io/hdxCompBlog/'
 
