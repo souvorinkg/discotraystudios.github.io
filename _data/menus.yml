@@ -5,8 +5,8 @@
 header:
 - title: Our Mission
   url: /#about
-# - title: Services
-#   url: /#services
+- title: Our Projects
+  url: /#services
 - title: Members
   url: /#members
 - title: Timeline

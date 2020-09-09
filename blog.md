@@ -16,3 +16,10 @@ sections:
 
 Disco Trays are glittery cafeteria trays from the 60's that bring good luck and serendipity to anyone who finds it. However, you can't go looking for them. If the Disco Tray isn't at the top of the stack, then it isn't meant for you that day. If you search for it, then you don't get the luck. 
 
+
+
+ A disco tray is cool
+
+ Come to Hendrix to find out. 
+
+
