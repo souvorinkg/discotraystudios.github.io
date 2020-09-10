@@ -16,8 +16,7 @@ sections:
 {%- if site.posts.size > 0 -%}
     {%- for post in site.posts -%}
       {%- assign date_format = site.minima.date_format | default: "on %b %-d, %Y" -%}
-					<div class="col-lg-12 col-md-12">
-						<div class="card h-100">
+
 							<div class="single-post post-style-2">
 
 								<div class="blog-image"><img src="{{site.baseurl}}/{{ post.image }}" alt="Blog Image"></div>
@@ -48,7 +47,5 @@ sections:
 
 							</div><!-- single-post extra-blog -->
 
-						</div><!-- card -->
-					</div><!-- col-lg-12 col-md-12 -->
     {%- endfor -%}
 {%- endif -%}
