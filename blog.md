@@ -12,14 +12,49 @@ menus:
 sections:
 ---
 
-**Why the name Disco Tray Studios?**
+  {%- if site.posts.size > 0 -%}
+      {%- for post in site.posts -%}
+        {%- assign date_format = site.minima.date_format | default: "on %b %-d, %Y" -%}
+						<div class="col-lg-12 col-md-12">
+							<div class="card h-100">
+								<div class="single-post post-style-2">
 
-Disco Trays are glittery cafeteria trays from the 60's that bring good luck and serendipity to anyone who finds it. However, you can't go looking for them. If the Disco Tray isn't at the top of the stack, then it isn't meant for you that day. If you search for it, then you don't get the luck. 
+									<div class="blog-image"><img src="{{site.baseurl}}/{{ post.image }}" alt="Blog Image"></div>
+
+									<div class="blog-info">
+
+										<h6 class="pre-title"><a href="{{site.baseurl}}/category/{{post.categories}}">{{ post.categories }}</a></h6>
+
+										<h4 class="title">
+										          <a class="post-link" href="{{ post.url | relative_url }}">
+            <b>{{ post.title | escape }}</b>
+          </a>
+        </h4>
+
+        <p>{%- if site.show_excerpts -%}
+          {{ post.content | markdownify | strip_html | truncatewords: 30 }}
+          <!--{{ post.excerpt }} -->
+        {%- endif -%}
+		</p>
+
+										<div class="avatar-area">
+											<a class="avatar" href="{{post.authorhome}}"><img src="{{post.avatar}}" alt="Profile Image"></a>
+											<div class="right-area">
+												<a class="name" href="{{post.authorhome}}"><b>{{post.author}}</b></a>
+												<h6 class="date">{{ post.date | date: date_format }}</h6>
+											</div>
+										</div>
 
 
+										<ul class="post-footer">
+											<li><a href="{{ post.url | relative_url }}"><i class="ion-chatbubble"></i><span class="disqus-comment-count" data-disqus-identifier="{{post.url}}"></a></span></li>
+										</ul>
 
- A disco tray is cool
+									</div><!-- blog-right -->
 
- Come to Hendrix to find out. 
+								</div><!-- single-post extra-blog -->
 
-
+							</div><!-- card -->
+						</div><!-- col-lg-12 col-md-12 -->
+      {%- endfor -%}
+  {%- endif -%}
