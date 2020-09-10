@@ -88,7 +88,7 @@ sections:
         image: assets/img/members/Lucy.png
         url: 'https://lucylyon.github.io/'
       - title: INNOCENT NSABIMANA
-        text: description
+        text: Technology Enthusiast
         image: assets/img/members/Innocent.jpg
         url: 'https://nsabimana1.github.io/csci340blog//about/'
       - title: ANDREW EVELD
