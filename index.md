@@ -29,12 +29,8 @@ sections:
         text: My Life in Months is a website that allows you to make a chart of your life throughout the months.
         icon: fa-gem text-info
         image: assets/img/logo500.png
-        url: http://127.0.0.1:4000/creative-theme-jekyll-new/elements
-      - title: My Life In Months
-        text: My Life in Months is a website that allows you to make a chart of your life throughout the months.
-        icon: fa-gem text-info
-        image: assets/img/logo500.png
-        url: http://127.0.0.1:4000/creative-theme-jekyll-new/elements
+        url: elements
+
 
   - type: portfolio.html
     # this section has always ID 'portfolio'

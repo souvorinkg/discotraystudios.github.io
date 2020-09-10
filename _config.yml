@@ -8,6 +8,7 @@ lang: en_US
 
 # Build settings
 safe: true # always trues on github-pages, disables _plugins/
+show_excerpts: true
 markdown: kramdown
 sass:
   indentWidth: 4

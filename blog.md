@@ -4,6 +4,7 @@ title: Blog
 #background_style: bg-info
 background_image: url('assets/img/sparkle.jpg')
 # Add a link to the the top menu
+background_style: bg-dark text-primary
 menus:
   header:
     title: Blog
@@ -12,49 +13,42 @@ menus:
 sections:
 ---
 
-  {%- if site.posts.size > 0 -%}
-      {%- for post in site.posts -%}
-        {%- assign date_format = site.minima.date_format | default: "on %b %-d, %Y" -%}
-						<div class="col-lg-12 col-md-12">
-							<div class="card h-100">
-								<div class="single-post post-style-2">
+{%- if site.posts.size > 0 -%}
+    {%- for post in site.posts -%}
+      {%- assign date_format = site.minima.date_format | default: "on %b %-d, %Y" -%}
+					<div class="col-lg-12 col-md-12">
+						<div class="card h-100">
+							<div class="single-post post-style-2">
 
-									<div class="blog-image"><img src="{{site.baseurl}}/{{ post.image }}" alt="Blog Image"></div>
+								<div class="blog-image"><img src="{{site.baseurl}}/{{ post.image }}" alt="Blog Image"></div>
 
-									<div class="blog-info">
+								<div class="blog-info">
 
-										<h6 class="pre-title"><a href="{{site.baseurl}}/category/{{post.categories}}">{{ post.categories }}</a></h6>
+									<h4 class="title">
+									   <a class="post-link" href="{{ post.url | relative_url }}">
+                      <b>{{ post.title | escape }}</b>
+                     </a>
+                  </h4>
 
-										<h4 class="title">
-										          <a class="post-link" href="{{ post.url | relative_url }}">
-            <b>{{ post.title | escape }}</b>
-          </a>
-        </h4>
+                  <p>{%- if site.show_excerpts -%}
+                      {{ post.content | markdownify | strip_html | truncatewords: 30 }}
+                        <!--{{ post.excerpt }} -->
+                    {%- endif -%}
+          	      </p>
 
-        <p>{%- if site.show_excerpts -%}
-          {{ post.content | markdownify | strip_html | truncatewords: 30 }}
-          <!--{{ post.excerpt }} -->
-        {%- endif -%}
-		</p>
-
-										<div class="avatar-area">
-											<a class="avatar" href="{{post.authorhome}}"><img src="{{post.avatar}}" alt="Profile Image"></a>
-											<div class="right-area">
-												<a class="name" href="{{post.authorhome}}"><b>{{post.author}}</b></a>
-												<h6 class="date">{{ post.date | date: date_format }}</h6>
-											</div>
+									<div class="avatar-area">
+										<a class="avatar" href="{{post.authorhome}}"><img src="{{post.avatar}}" alt="Profile Image"></a>
+										<div class="right-area">
+											<a class="name" href="{{post.authorhome}}"><b>{{post.author}}</b></a>
+											<h6 class="date">{{ post.date | date: date_format }}</h6>
 										</div>
+									</div>
 
+								</div><!-- blog-right -->
 
-										<ul class="post-footer">
-											<li><a href="{{ post.url | relative_url }}"><i class="ion-chatbubble"></i><span class="disqus-comment-count" data-disqus-identifier="{{post.url}}"></a></span></li>
-										</ul>
+							</div><!-- single-post extra-blog -->
 
-									</div><!-- blog-right -->
-
-								</div><!-- single-post extra-blog -->
-
-							</div><!-- card -->
-						</div><!-- col-lg-12 col-md-12 -->
-      {%- endfor -%}
-  {%- endif -%}
+						</div><!-- card -->
+					</div><!-- col-lg-12 col-md-12 -->
+    {%- endfor -%}
+{%- endif -%}
