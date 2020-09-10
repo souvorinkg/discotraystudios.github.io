@@ -3,7 +3,7 @@ layout: home
 header:
   title: Disco Tray Studios
   text: >
-    We explore how technology can address social, community, and educational issues through game development, mobile apps, and web systems/databases.
+    Working to infuse unexpected joy and wonder into community-focused software development projects.
   # action: # action button is optional
   #   label: Find Out More
   #   url: '#about'
@@ -84,11 +84,11 @@ sections:
     background_style: bg-info text-white
     members:
       - title: DR. MARK GOADRICH
-        text: description
+        text: Very fond of lemurs
         image: assets/img/members/DrGoadrich.png
         url: 'http://mark.goadrich.com/'
       - title: LUCY LYON
-        text: description
+        text: Three raccoons in a trench coat
         image: assets/img/members/Lucy.png
         url: 'https://lucylyon.github.io/'
       - title: INNOCENT NSABIMANA
@@ -96,15 +96,15 @@ sections:
         image: assets/img/members/Innocent.jpg
         url: 'https://nsabimana1.github.io/csci340blog//about/'
       - title: ANDREW EVELD
-        text: description
+        text: Small Town Computer Boy
         image: assets/img/members/Andrew.jpg
         url: 'https://andreweveld.github.io/csci340blog/index.html'
       - title: IVY JACKSON
-        text: description
+        text: Code and cat wrangler
         image: assets/img/members/Ivy.jpg
         url: 'https://ivyjsgit.github.io'
       - title: GRIFFITH SAMORE
-        text: description
+        text: Social Justice Sorcerer
         image: assets/img/members/Grifith.png
         url: 'https://samorege.github.io/hdxCompBlog/'
 
