@@ -20,7 +20,7 @@
   --pink: #e83e8c;
   --red: #dc3545;
   --orange: #f4623a;
-  --yellow: #ffc107;
+  --yellow: #FBC863;
   --green: #28a745;
   --teal: #20c997;
   --cyan: #17a2b8;
@@ -31,7 +31,7 @@
   --secondary: #3D3D3D;
   --success: #00A79D;
   --info: #882065;
-  --warning: #ffc107;
+  --warning: #FBC863;
   --danger: #dc3545;
   --light: #f8f9fa;
   --dark: #000;
@@ -9998,6 +9998,7 @@ hr.light {
   box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
   background-color: #000;
   transition: background-color 0.2s ease;
+  
 }
 #mainNav .navbar-brand {
   font-family: "Baloo Tammudu 2";
