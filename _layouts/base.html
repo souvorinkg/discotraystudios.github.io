@@ -32,7 +32,7 @@
 {% seo %}
 </head>
 
-<body id="page-top" class="{% if page.layout == site.landing_template %}landing {% endif %}">
+<body id="page-top" class="{% if page.layout == site.landing_template %}landing {% endif %} bg-dark text-primary ">
   {% include nav.html    section=section site=site page=page %}
   {{ content }}
   {% include footer.html section=section site=site page=page %}
@@ -45,7 +45,7 @@
   <script src="https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/jquery.magnific-popup.min.js"></script>
   <!-- Core theme JS-->
 
-  <script src="assets/js/creative.min.js"></script>
+  <script src="{{site.baseurl}}assets/js/creative.min.js"></script>
 </body>
 
 </html>
