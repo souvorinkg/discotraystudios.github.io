@@ -3,7 +3,7 @@ layout: home
 header:
   title: Disco Tray Studios
   text: >
-    Working to infuse unexpected joy and wonder into community-focused software development projects.
+    Infusing unexpected joy and wonder into community-focused software
   # action: # action button is optional
   #   label: Find Out More
   #   url: '#about'
@@ -24,6 +24,7 @@ sections:
     section_id: services
     #background_style: bg-info
     title: Our Projects
+    background_style: bg-warning
     services:
       - title: My Life In Months
         text: My Life in Months is a website that allows you to make a chart of your life throughout the months.
@@ -80,11 +81,11 @@ sections:
     background_style: bg-info text-white
     members:
       - title: DR. MARK GOADRICH
-        text: Very fond of lemurs
+        text: Very Fond of Lemurs
         image: assets/img/members/DrGoadrich.png
         url: 'http://mark.goadrich.com/'
       - title: LUCY LYON
-        text: Three raccoons in a trench coat
+        text: Three Raccoons in a Trench Coat
         image: assets/img/members/Lucy.png
         url: 'https://lucylyon.github.io/'
       - title: INNOCENT NSABIMANA
@@ -96,7 +97,7 @@ sections:
         image: assets/img/members/Andrew.jpg
         url: 'https://andreweveld.github.io/csci340blog/index.html'
       - title: IVY JACKSON
-        text: Code and cat wrangler
+        text: Code and Cat Wrangler
         image: assets/img/members/Ivy.jpg
         url: 'https://ivyjsgit.github.io'
       - title: GRIFFITH SAMORE
@@ -124,6 +125,7 @@ sections:
   - type: contact.html
     section_id: contacts
     title: Let's Get In Touch!
+    background_style: bg-warning
     text: >-
       Ready to start your next project with us? Send us an email
       and we will get back to you as soon as possible!

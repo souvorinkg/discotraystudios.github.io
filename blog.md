@@ -4,7 +4,7 @@ title: Blog
 #background_style: bg-info
 background_image: url('assets/img/sparkle.jpg')
 # Add a link to the the top menu
-background_style: bg-dark text-primary
+background_style: bg-dark text-primary 
 menus:
   header:
     title: Blog
@@ -28,7 +28,7 @@ sections:
 				</a>
 			</h2>
 			<p>{%- if site.show_excerpts -%}
-				{{ post.content | markdownify | strip_html | truncatewords: 30 }}
+				{{ post.content | markdownify | strip_html | truncatewords: 40 }}
 				<!--{{ post.excerpt }} -->
 				{%- endif -%}
 			</p>
