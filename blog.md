@@ -4,7 +4,7 @@ title: Blog
 #background_style: bg-info
 background_image: url('assets/img/sparkle.jpg')
 # Add a link to the the top menu
-background_style: bg-dark text-primary 
+background_style: bg-dark text-primary
 menus:
   header:
     title: Blog
@@ -18,7 +18,7 @@ sections:
 		{%- assign date_format = site.minima.date_format | default: "on %b %-d, %Y" -%}
 <div class="row">
 	<div class="col-md-4">
-		<div class="blog-image"><img src="{{site.baseurl}}/{{ post.image }}" alt="Blog Image"></div>
+		<div class="blog-image"><img src="{{site.baseurl}}{{ post.image }}" alt="Blog Image"></div>
 	</div>
 	<div class="col-md-6">
 		<div class="blog-info">
