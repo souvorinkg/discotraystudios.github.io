@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Blog
-#background_style: bg-info
 background_image: url('assets/img/sparkle.jpg')
 # Add a link to the the top menu
 background_style: bg-dark text-primary 
