@@ -39,9 +39,9 @@
 
 .avatar img{
    width:100%;
-   margin-bottom: 15px; 
+   margin-bottom: 15px;
    margin-top: 25px;
-   border-radius: 50%;   
+   border-radius: 50%;
 }
 
 .avatar-area{
@@ -51,24 +51,33 @@
 }
 
 .name {
-  margin-left: 25px;
+  text-align: center;
+  //margin-left: 25px;
 }
 
 .date {
-   margin-left:25px;
+   //margin-left:25px;
+}
+.blog-post {
+  margin-top:15px;
+  font-size: 18px;
 }
 
 .blog-image{
-   padding-top: 15px;
+   //padding-top: 15px;
 }
 .blog-info{
-   padding-top: 80px;
+   //padding-top: 10px;
    font-size: 18px;
 }
 .navbar-toggler-icon{
-  color:#FBC863;       
+  color:#FBC863;
 }
 
 .justify-content-center{
-   padding-top: 20px;
+   //padding-top: 20px;
+}
+
+.blog-section { //not working
+   background-color: pink;
 }

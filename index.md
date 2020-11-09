@@ -29,6 +29,7 @@ sections:
       - title: My Life In Months
         text: My Life in Months is a website that allows you to make a chart of your life throughout the months.
         icon: fa-gem text-info
+<<<<<<< HEAD
         image: assets/img/logo500.png
         url: 2020/09/08/mlim.html
      
@@ -37,6 +38,11 @@ sections:
         icon: fa-gem text-info
         image: assets/img/logo5.png
         url: 2020/11/04/hdx-assessment.html
+=======
+        image: /assets/img/logo500.png
+        url: elements
+
+>>>>>>> creative
 
 
   # - type: aside.html
@@ -54,27 +60,27 @@ sections:
     members:
       - title: DR. MARK GOADRICH
         text: Very Fond of Lemurs
-        image: assets/img/members/DrGoadrich.png
+        image: /assets/img/members/DrGoadrich.png
         url: 'http://mark.goadrich.com/'
       - title: LUCY LYON
         text: Three Raccoons in a Trench Coat
-        image: assets/img/members/Lucy.png
+        image: /assets/img/members/Lucy.png
         url: 'https://lucylyon.github.io/'
       - title: INNOCENT NSABIMANA
         text: Technology Enthusiast
-        image: assets/img/members/Innocent.jpg
+        image: /assets/img/members/Innocent.jpg
         url: 'https://nsabimana1.github.io/csci340blog//about/'
       - title: ANDREW EVELD
         text: Small Town Computer Boy
-        image: assets/img/members/Andrew.jpg
+        image: /assets/img/members/Andrew.jpg
         url: 'https://andreweveld.github.io/csci340blog/index.html'
       - title: IVY JACKSON
         text: Code and Cat Wrangler
-        image: assets/img/members/Ivy.jpg
+        image: /assets/img/members/Ivy.jpg
         url: 'https://ivyjsgit.github.io'
       - title: GRIFFITH SAMORE
         text: Social Justice Sorcerer
-        image: assets/img/members/Grifith.png
+        image: /assets/img/members/Grifith.png
         url: 'https://samorege.github.io/hdxCompBlog/'
 
   - type: timeline.html
@@ -83,7 +89,7 @@ sections:
     background_style: bg-dark text-primary
     # last_image: assets/img/tdc.png
     actions:
-      - image: assets/img/bland-logo.png
+      - image: /assets/img/bland-logo.png
         title: >+
           [July 2020 - Founded](https://discotraystudios.github.io/2020/09/06/disco.html)
         text: >-
