@@ -1,0 +1,83 @@
+---
+---
+
+@charset "utf-8";
+
+// Import partials from `sass_dir` (defaults to `_sass`)
+@import
+        "member-box",
+        "timeline",
+        "page",
+        "icons"
+;
+
+#mainwords {
+        color: white;
+        font-size: 500%;
+        text-shadow:
+                -3px -3px 0 #000,
+                3px -3px 0 #000,
+                -3px 3px 0 #000,
+                3px 3px 0 #000;
+
+     }
+
+#mainwords1 {
+        color: white;
+        font-size: 1.9rem;;
+        text-shadow:
+                -2px -2px 0 #000,
+                2px -2px 0 #000,
+                -2px 2px 0 #000,
+                2px 2px 0 #000;
+
+     }
+
+.blog-image img {
+  width:100%;     
+}
+
+.avatar img{
+   width:100%;
+   margin-bottom: 15px;
+   margin-top: 25px;
+   border-radius: 50%;
+}
+
+.avatar-area{
+   width: 150px;
+   float: right;
+   margin-left: 15px;
+}
+
+.name {
+  text-align: center;
+  //margin-left: 25px;
+}
+
+.date {
+   //margin-left:25px;
+}
+.blog-post {
+  margin-top:15px;
+  font-size: 18px;
+}
+
+.blog-image{
+   //padding-top: 15px;
+}
+.blog-info{
+   //padding-top: 10px;
+   font-size: 18px;
+}
+.navbar-toggler-icon{
+  color:#FBC863;
+}
+
+.justify-content-center{
+   //padding-top: 20px;
+}
+
+.blog-section { //not working
+   background-color: pink;
+}

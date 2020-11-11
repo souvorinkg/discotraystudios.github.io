@@ -1,0 +1,47 @@
+<footer class="bg-dark py-5">
+  <div class="container">
+    <div class="small text-center text-primary">
+      {{ site.data.footer.copyright }}
+      &nbsp;
+      {% for link in site.data.footer.links %}
+          <a href="{{ link.url }}" {% assign new_window_is_not_empty = link.new_window | is_not_empty %}
+          {% if new_window_is_not_empty %}target="_blank" rel="noopener"
+          {% endif %}>{{ link.text }}</a>
+      {% endfor %} 
+    </div>
+  </div>
+</footer>
+
+
+
+
+
+<!-- <footer class="bg-light py-5"> -->
+<!-- <footer id="footer"> -->
+  <!-- <form method="POST"
+  action="https://api.slapform.com/discotraystudios@gmail.com">
+  <input type="email" name="email">
+  <textarea type="text" name="message"></textarea>
+  <button type="submit">Submit</button>
+</form> -->
+   <!-- <section>
+    <form method="POST" action="https://api.slapform.com/discotraystudios@gmail.com">
+      <div class="field">
+        <label for="name">Name</label>
+        <input type="text" name="name" id="name" />
+      </div>
+      <div class="field">
+        <label for="email">Email</label>
+        <input type="email" name="slap_replyto" id="email" /> 
+      </div>
+      <div class="field">
+        <label for="message">Message</label>
+        <textarea name="message" id="message" rows="3"></textarea>
+      </div>
+      <ul class="actions">
+        <ul><input type="submit" value="Send Message" /></li>
+      </ul>
+      <input type="hidden" name="slap_redirect" value="{{site.url}}{{site.slapform_thankyou_page}}" />  
+    </form>
+  </section> 
+</footer>  -->
