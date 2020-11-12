@@ -7,7 +7,7 @@ background_style: bg-dark text-primary
 menus:
   header:
     title: Blog
-    weight: 0
+    weight: 2
 
 sections:
 ---
