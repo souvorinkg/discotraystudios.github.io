@@ -3,7 +3,7 @@ layout: posts
 title:  "Hendrix Assessment"
 image: assets/img/hdxlogo2.jpg
 author: Lucy Lyon
-avatar: assets/img/members/Lucy.png
+avatar: /assets/img/members/Lucy.png
 authorhome: https://lucylyon.github.io/
 background_style:  bg-dark text-primary
 ---

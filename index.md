@@ -14,7 +14,7 @@ sections:
     section_id: about
     background_style: bg-primary
     title: Our Mission
-    text: Disco Tray Studios is a community-focused software development initiative at Hendrix College in Conway, Arkansas. We are five students led by Professor of Computer Science, Dr. Mark Goadrich. This project aims to empower students in developing interactive educational games for social good and provide opportunities for student to execute and complete longer-term software development projects that support the technological needs of the local community.
+    text: Disco Tray Studios is a community-focused software development initiative at Hendrix College in Conway, Arkansas. We are five students led by Professor of Computer Science, Dr. Mark Goadrich. This project aims to empower students in developing interactive educational games for social good and provide opportunities for student to execute and complete longer-term software development projects that support the technological needs of the local community. 
     # actions:
     #   - title: Get Started!
     #     url: '#page-top'
@@ -29,43 +29,15 @@ sections:
       - title: My Life In Months
         text: My Life in Months is a website that allows you to make a chart of your life throughout the months.
         icon: fa-gem text-info
-        image: /assets/img/logo500.png
-        url: elements
+        image: assets/img/logo500.png
+        url: 2020/09/08/mlim.html
+     
+      - title: Hendrix Assesment
+        text: A website for all Hendrix professors to assess how many students met certain learning goals at the end of the semeter.
+        icon: fa-gem text-info
+        image: assets/img/logo5.png
+        url: 2020/11/04/hdx-assessment.html
 
-
-  - type: portfolio.html
-    # this section has always ID 'portfolio'
-    section_id: portfolio
-    background_style: bg-dark
-    projects:
-      - title: My Life In Months
-        text: Make a graph of your life throughout the months!
-        # the images are located in:
-        # img/portfolio/fullsize
-        # img/portfolio/thumbnails
-        icon: 1.jpg
-        url: '#https://discotraystudios.github.io/my-life-in-months/'
-      - title: Project 2
-        text: This is a very short project description.
-        icon: 2.jpg
-        url: http://127.0.0.1:4000/creative-theme-jekyll-new/elements
-      - title: Project 3
-        text: This is a very short project description.
-        icon: 3.jpg
-        url: '#'
-      - title: Project 4
-        text: This is a very short project description.
-        icon: 4.jpg
-        url: '#'
-      - title: Project 5
-        text: This is a very short project description.
-        icon: 5.jpg
-        url: '#'
-      - title: Project 6
-        text: This is a very short project description.
-        icon: 6.jpg
-        url: '#'
-        link: http://127.0.0.1:4000/creative-theme-jekyll-new/elements
 
   # - type: aside.html
   #   section_id: aside
@@ -82,27 +54,27 @@ sections:
     members:
       - title: DR. MARK GOADRICH
         text: Very Fond of Lemurs
-        image: /assets/img/members/DrGoadrich.png
+        image: assets/img/members/DrGoadrich.png
         url: 'http://mark.goadrich.com/'
       - title: LUCY LYON
         text: Three Raccoons in a Trench Coat
-        image: /assets/img/members/Lucy.png
+        image: assets/img/members/Lucy.png
         url: 'https://lucylyon.github.io/'
       - title: INNOCENT NSABIMANA
         text: Technology Enthusiast
-        image: /assets/img/members/Innocent.jpg
+        image: assets/img/members/Innocent.jpg
         url: 'https://nsabimana1.github.io/csci340blog//about/'
       - title: ANDREW EVELD
         text: Small Town Computer Boy
-        image: /assets/img/members/Andrew.jpg
+        image: assets/img/members/Andrew.jpg
         url: 'https://andreweveld.github.io/csci340blog/index.html'
       - title: IVY JACKSON
         text: Code and Cat Wrangler
-        image: /assets/img/members/Ivy.jpg
+        image: assets/img/members/Ivy.jpg
         url: 'https://ivyjsgit.github.io'
       - title: GRIFFITH SAMORE
         text: Social Justice Sorcerer
-        image: /assets/img/members/Grifith.png
+        image: assets/img/members/Grifith.png
         url: 'https://samorege.github.io/hdxCompBlog/'
 
   - type: timeline.html
@@ -111,16 +83,28 @@ sections:
     background_style: bg-dark text-primary
     # last_image: assets/img/tdc.png
     actions:
-      - image: /assets/img/bland-logo.png
+      - image: assets/img/bland-logo.png
         title: >+
-          July 2020 - Founded
+          [July 2020 - Founded](https://discotraystudios.github.io/2020/09/06/disco.html)
         text: >-
           Dr. Goadrich got funding to hire 5 students for the school year
       - image: assets/img/logo500.png
         title: >+
-          September 2020 - My Life In Months Completed
+          [September 2020 - My Life In Months Completed](https://discotraystudios.github.io/2020/09/08/mlim.html)
         text: >-
           A website where you can document your life throughout the months
+      - image: assets/img/hdxlogo.jpg
+        title: >+
+         [October 2020 - Hendrix Assessment Started](https://discotraystudios.github.io/2020/11/04/hdx-assessment.html)
+        text: >-
+          A website for all Hendrix professors to assess how many students met certain learning goals at the end of the semeter.
+      - image: assets/img/twitchlogo.jpg
+        title: >+
+          [November 2020 - We Started Streaming!](https://discotraystudios.github.io/2020/11/04/streaming.html)
+        text: We created a Twitch account to review educational games
+
+
+          
 
   - type: contact.html
     section_id: contacts
