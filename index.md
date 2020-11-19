@@ -29,21 +29,43 @@ sections:
       - title: My Life In Months
         text: My Life in Months is a website that allows you to make a chart of your life throughout the months.
         icon: fa-gem text-info
-<<<<<<< HEAD
-        image: assets/img/logo500.png
-        url: 2020/09/08/mlim.html
-     
-      - title: Hendrix Assesment
-        text: A website for all Hendrix professors to assess how many students met certain learning goals at the end of the semeter.
-        icon: fa-gem text-info
-        image: assets/img/logo5.png
-        url: 2020/11/04/hdx-assessment.html
-=======
         image: /assets/img/logo500.png
         url: elements
 
->>>>>>> creative
 
+  - type: portfolio.html
+    # this section has always ID 'portfolio'
+    section_id: portfolio
+    background_style: bg-dark
+    projects:
+      - title: My Life In Months
+        text: Make a graph of your life throughout the months!
+        # the images are located in:
+        # img/portfolio/fullsize
+        # img/portfolio/thumbnails
+        icon: 1.jpg
+        url: '#https://discotraystudios.github.io/my-life-in-months/'
+      - title: Project 2
+        text: This is a very short project description.
+        icon: 2.jpg
+        url: http://127.0.0.1:4000/creative-theme-jekyll-new/elements
+      - title: Project 3
+        text: This is a very short project description.
+        icon: 3.jpg
+        url: '#'
+      - title: Project 4
+        text: This is a very short project description.
+        icon: 4.jpg
+        url: '#'
+      - title: Project 5
+        text: This is a very short project description.
+        icon: 5.jpg
+        url: '#'
+      - title: Project 6
+        text: This is a very short project description.
+        icon: 6.jpg
+        url: '#'
+        link: http://127.0.0.1:4000/creative-theme-jekyll-new/elements
 
   # - type: aside.html
   #   section_id: aside
@@ -91,26 +113,14 @@ sections:
     actions:
       - image: /assets/img/bland-logo.png
         title: >+
-          [July 2020 - Founded](https://discotraystudios.github.io/2020/09/06/disco.html)
+          July 2020 - Founded
         text: >-
           Dr. Goadrich got funding to hire 5 students for the school year
       - image: assets/img/logo500.png
         title: >+
-          [September 2020 - My Life In Months Completed](https://discotraystudios.github.io/2020/09/08/mlim.html)
+          September 2020 - My Life In Months Completed
         text: >-
           A website where you can document your life throughout the months
-      - image: assets/img/hdxlogo.jpg
-        title: >+
-         [October 2020 - Hendrix Assessment Started](https://discotraystudios.github.io/2020/11/04/hdx-assessment.html)
-        text: >-
-          A website for all Hendrix professors to assess how many students met certain learning goals at the end of the semeter.
-      - image: assets/img/twitchlogo.jpg
-        title: >+
-          [November 2020 - We Started Streaming!](https://discotraystudios.github.io/2020/11/04/streaming.html)
-        text: We created a Twitch account to review educational games
-
-
-          
 
   - type: contact.html
     section_id: contacts
