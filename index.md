@@ -109,26 +109,4 @@ sections:
 
 
 
-
-  - type: contact.html
-    section_id: contacts
-    title: Let's Get In Touch!
-    background_style: bg-warning
-    text: >-
-      Ready to start your next project with us? Send us an email
-      and we will get back to you as soon as possible!
-    actions:
-    - title: Github
-      icon: fa-github
-      icon_type: fab
-      url: https://github.com/DiscoTrayStudios
-    - title: Twitter
-      icon: fa-twitter
-      icon_type: fab
-      url: https://twitter.com/disco_tray
-    - title: Facebook
-      icon: fa-facebook
-      icon_type: fab
-      url: 'https://www.facebook.com/discotraystudios/'
-
 ---
