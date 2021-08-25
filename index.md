@@ -115,7 +115,7 @@ sections:
     title: Let's Get In Touch!
     background_style: bg-warning
     text: >-
-      Ready to start your next project with us? Send us an email
+      Ready to start your next project with us? Send us a message
       and we will get back to you as soon as possible!
     actions:
     - title: Github
