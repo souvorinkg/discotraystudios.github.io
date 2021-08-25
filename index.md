@@ -76,6 +76,10 @@ sections:
         text: Social Justice Sorcerer
         image: assets/img/members/Grifith.png
         url: 'https://samorege.github.io/hdxCompBlog/'
+      - title: VI NGUYEN
+        text: Just Wants One More Cat
+        image: assets/img/members/Vi.jpg
+        url: 'https://nguyenvvv.github.io/csci340blog/about/'
 
   - type: timeline.html
     section_id: timeline
