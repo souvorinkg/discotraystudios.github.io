@@ -80,6 +80,10 @@ sections:
         text: Finds Computers Fun
         image: assets/img/members/Ian.jpg
         url: 'https://ianc02.github.io/'
+      - title: VI NGUYEN
+        text: Just Wants One More Cat
+        image: assets/img/members/Vi.jpg
+        url: 'https://nguyenvvv.github.io/csci340blog/about/'
 
   - type: timeline.html
     section_id: timeline
@@ -106,7 +110,6 @@ sections:
         title: >+
           [November 2020 - We Started Streaming!](https://discotraystudios.github.io/2020/11/04/streaming.html)
         text: We created a Twitch account to review educational games
-
 
 
 
