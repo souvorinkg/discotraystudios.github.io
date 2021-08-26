@@ -82,7 +82,7 @@ sections:
         url: 'https://ianc02.github.io/'
       - title: VI NGUYEN
         text: Just Wants One More Cat
-        image: assets/img/members/Vi.jpg
+        image: assets/img/members/Vi.jpeg
         url: 'https://nguyenvvv.github.io/csci340blog/about/'
 
   - type: timeline.html
