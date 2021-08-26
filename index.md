@@ -86,8 +86,12 @@ sections:
         url: 'https://ianc02.github.io/'
       - title: VI NGUYEN
         text: Just Wants One More Cat
-        image: assets/img/members/Vi.jpg
+        image: assets/img/members/Vi.jpeg
         url: 'https://nguyenvvv.github.io/csci340blog/about/'
+      - title: JONATHON QUALLS
+        text: Game Design Guy
+        image: assets/img/members/Jonathon.jpg
+        url: 'https://jqual1.github.io/blog/'
 
   - type: timeline.html
     section_id: timeline
@@ -121,7 +125,7 @@ sections:
     title: Let's Get In Touch!
     background_style: bg-warning
     text: >-
-      Ready to start your next project with us? Send us an email
+      Ready to start your next project with us? Send us a message
       and we will get back to you as soon as possible!
     actions:
     - title: Github
