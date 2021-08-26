@@ -7,26 +7,6 @@
         <p class="text-muted mb-5">{{ section.text }}</p>
       </div>
     </div>
-    <div class="justify-content mb-2">
-      <form method="POST" action="https://api.slapform.com/discotraystudios@gmail.com">
-        <div class="field mb-2">
-          <!-- <label for="name">Name</label> -->
-          <input required="true" placeholder="Name" class="form-control" type="text" name="name" id="name" />
-        </div>
-        <div class="field mb-2">
-          <!-- <label for="email">Email</label> -->
-          <input required="true" placeholder="Email" class="form-control" type="email" name="slap_replyto" id="email" /> 
-        </div>
-        <div class="field mb-2">
-          <!-- <label for="message">Message</label> -->
-          <textarea required="true" placeholder="Message" class="form-control" name="message" id="message" rows="3"></textarea>
-        </div>
-        <div class="actions text-center">
-          <input class="btn btn-xl btn-dark" type="submit" value="Send Message" />
-        </div>
-        <!--<input type="hidden" name="slap_redirect" value="{{site.url}}{{site.slapform_thankyou_page}}" />  -->
-      </form>
-    </div> 
     <div class="row justify-content-center">
       {% for action in section.actions %}
       {% assign fa = action.icon_type | default: "fas" %}
@@ -38,6 +18,3 @@
     </div>
   </div>
 </section>
-
-
-
