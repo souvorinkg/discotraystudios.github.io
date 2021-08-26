@@ -76,6 +76,10 @@ sections:
         text: Social Justice Sorcerer
         image: assets/img/members/Grifith.png
         url: 'https://samorege.github.io/hdxCompBlog/'
+      - title: ANDREI STOYANOW
+        text: The Code-kage
+        image:
+        url: 'https://astoyanow.github.io/blog/'
       - title: IAN CAMPBELL
         text: Finds Computers Fun
         image: assets/img/members/Ian.jpg
