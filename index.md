@@ -82,8 +82,12 @@ sections:
         url: 'https://ianc02.github.io/'
       - title: VI NGUYEN
         text: Just Wants One More Cat
-        image: assets/img/members/Vi.jpg
+        image: assets/img/members/Vi.jpeg
         url: 'https://nguyenvvv.github.io/csci340blog/about/'
+      - title: JONATHON QUALLS
+        text: Game Design Guy
+        image: assets/img/members/Jonathon.jpg
+        url: 'https://jqual1.github.io/blog/'
 
   - type: timeline.html
     section_id: timeline
@@ -110,7 +114,6 @@ sections:
         title: >+
           [November 2020 - We Started Streaming!](https://discotraystudios.github.io/2020/11/04/streaming.html)
         text: We created a Twitch account to review educational games
-
 
 
   - type: contact.html
