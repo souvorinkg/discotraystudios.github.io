@@ -76,6 +76,14 @@ sections:
         text: Social Justice Sorcerer
         image: assets/img/members/Grifith.png
         url: 'https://samorege.github.io/hdxCompBlog/'
+      - title: IAN CAMPBELL
+        text: Finds Computers Fun
+        image: assets/img/members/Ian.jpg
+        url: 'https://ianc02.github.io/'
+      - title: VI NGUYEN
+        text: Just Wants One More Cat
+        image: assets/img/members/Vi.jpg
+        url: 'https://nguyenvvv.github.io/csci340blog/about/'
       - title: JONATHON QUALLS
         text: Game Design Guy
         image: assets/img/members/Jonathon.jpg
@@ -107,28 +115,5 @@ sections:
           [November 2020 - We Started Streaming!](https://discotraystudios.github.io/2020/11/04/streaming.html)
         text: We created a Twitch account to review educational games
 
-
-
-
-  - type: contact.html
-    section_id: contacts
-    title: Let's Get In Touch!
-    background_style: bg-warning
-    text: >-
-      Ready to start your next project with us? Send us an email
-      and we will get back to you as soon as possible!
-    actions:
-    - title: Github
-      icon: fa-github
-      icon_type: fab
-      url: https://github.com/DiscoTrayStudios
-    - title: Twitter
-      icon: fa-twitter
-      icon_type: fab
-      url: https://twitter.com/disco_tray
-    - title: Facebook
-      icon: fa-facebook
-      icon_type: fab
-      url: 'https://www.facebook.com/discotraystudios/'
 
 ---
