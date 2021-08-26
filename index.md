@@ -78,7 +78,7 @@ sections:
         url: 'https://samorege.github.io/hdxCompBlog/'
       - title: ANDREI STOYANOW
         text: The Code-kage
-        image:
+        image: assets/img/members/Andrei.jpg
         url: 'https://astoyanow.github.io/blog/'
       - title: IAN CAMPBELL
         text: Finds Computers Fun
