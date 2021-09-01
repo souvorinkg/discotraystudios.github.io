@@ -56,26 +56,10 @@ sections:
         text: Very Fond of Lemurs
         image: assets/img/members/DrGoadrich.png
         url: 'http://mark.goadrich.com/'
-      - title: LUCY LYON
-        text: Three Raccoons in a Trench Coat
-        image: assets/img/members/Lucy.png
-        url: 'https://lucylyon.github.io/'
-      - title: INNOCENT NSABIMANA
-        text: Technology Enthusiast
-        image: assets/img/members/Innocent.jpg
-        url: 'https://nsabimana1.github.io/csci340blog//about/'
       - title: ANDREW EVELD
         text: Small Town Computer Boy
         image: assets/img/members/Andrew.jpg
         url: 'https://andreweveld.github.io/csci340blog/index.html'
-      - title: IVY JACKSON
-        text: Code and Cat Wrangler
-        image: assets/img/members/Ivy.jpg
-        url: 'https://ivyjsgit.github.io'
-      - title: GRIFFITH SAMORE
-        text: Social Justice Sorcerer
-        image: assets/img/members/Grifith.png
-        url: 'https://samorege.github.io/hdxCompBlog/'
       - title: ANDREI STOYANOW
         text: The Code-kage
         image: assets/img/members/Andrei.jpg
@@ -92,6 +76,28 @@ sections:
         text: Game Design Guy
         image: assets/img/members/Jonathon.jpg
         url: 'https://jqual1.github.io/blog/'
+
+  - type: members.html
+    section_id: members
+    title: Our Alumni!
+    background_style: bg-warning text-white
+    members:
+      - title: LUCY LYON
+        text: Three Raccoons in a Trench Coat
+        image: assets/img/members/Lucy.png
+        url: 'https://lucylyon.github.io/'
+      - title: INNOCENT NSABIMANA
+        text: Technology Enthusiast
+        image: assets/img/members/Innocent.jpg
+        url: 'https://nsabimana1.github.io/csci340blog//about/'
+      - title: IVY JACKSON
+        text: Code and Cat Wrangler
+        image: assets/img/members/Ivy.jpg
+        url: 'https://ivyjsgit.github.io'
+      - title: GRIFFITH SAMORE
+        text: Social Justice Sorcerer
+        image: assets/img/members/Grifith.png
+        url: 'https://samorege.github.io/hdxCompBlog/'
 
   - type: timeline.html
     section_id: timeline
