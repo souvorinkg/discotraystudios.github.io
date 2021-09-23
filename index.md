@@ -146,5 +146,9 @@ sections:
       icon: fa-facebook
       icon_type: fab
       url: 'https://www.facebook.com/discotraystudios/'
+    - title: Itch.io
+      icon: fa-itch-io
+      icon_type: fab
+      url: 'https://discotraystudios.itch.io/'
 
 ---
