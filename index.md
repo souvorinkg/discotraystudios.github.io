@@ -68,10 +68,10 @@ sections:
         text: Finds Computers Fun
         image: assets/img/members/Ian.jpg
         url: 'https://ianc02.github.io/'
-      - title: VI NGUYEN
-        text: Just Wants One More Cat
-        image: assets/img/members/Vi.jpeg
-        url: 'https://nguyenvvv.github.io/csci340blog/about/'
+      - title: CONNOR ESCAJEDA
+        text: Biiiig Track Guy
+        image: assets/img/members/Connor.jpg
+        url: 'https://connorescajeda.github.io/blog/'
       - title: JONATHON QUALLS
         text: Game Design Guy
         image: assets/img/members/Jonathon.jpg
@@ -98,6 +98,10 @@ sections:
         text: Social Justice Sorcerer
         image: assets/img/members/Grifith.png
         url: 'https://samorege.github.io/hdxCompBlog/'
+      - title: VI NGUYEN
+        text: Just Wants One More Cat
+        image: assets/img/members/Vi.jpeg
+        url: 'https://nguyenvvv.github.io/csci340blog/about/'
 
   - type: timeline.html
     section_id: timeline
