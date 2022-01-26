@@ -63,7 +63,7 @@ sections:
       - title: ANDREI STOYANOW
         text: The Code-kage
         image: assets/img/members/Andrei.jpg
-        url: 'https://astoyanow.github.io/blog/'
+        url: 'https://astoyanow.github.io/mysite/'
       - title: IAN CAMPBELL
         text: Finds Computers Fun
         image: assets/img/members/Ian.jpg
