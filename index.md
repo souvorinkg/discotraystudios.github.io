@@ -56,6 +56,32 @@ sections:
         text: Very Fond of Lemurs
         image: assets/img/members/DrGoadrich.png
         url: 'http://mark.goadrich.com/'
+      - title: ANDREW EVELD
+        text: Small Town Computer Boy
+        image: assets/img/members/Andrew.jpg
+        url: 'https://andreweveld.github.io/csci340blog/index.html'
+      - title: ANDREI STOYANOW
+        text: The Code-kage
+        image: assets/img/members/Andrei.jpg
+        url: 'https://astoyanow.github.io/blog/'
+      - title: IAN CAMPBELL
+        text: Finds Computers Fun
+        image: assets/img/members/Ian.jpg
+        url: 'https://ianc02.github.io/'
+      - title: CONNOR ESCAJEDA
+        text: Biiiig Track Guy
+        image: assets/img/members/Connor.jpg
+        url: 'https://connorescajeda.github.io/blog/'
+      - title: JONATHON QUALLS
+        text: Game Design Guy
+        image: assets/img/members/Jonathon.jpg
+        url: 'https://jqual1.github.io/blog/'
+
+  - type: members.html
+    section_id: members
+    title: Our Alumni!
+    background_style: bg-warning text-white
+    members:
       - title: LUCY LYON
         text: Three Raccoons in a Trench Coat
         image: assets/img/members/Lucy.png
@@ -64,10 +90,6 @@ sections:
         text: Technology Enthusiast
         image: assets/img/members/Innocent.jpg
         url: 'https://nsabimana1.github.io/csci340blog//about/'
-      - title: ANDREW EVELD
-        text: Small Town Computer Boy
-        image: assets/img/members/Andrew.jpg
-        url: 'https://andreweveld.github.io/csci340blog/index.html'
       - title: IVY JACKSON
         text: Code and Cat Wrangler
         image: assets/img/members/Ivy.jpg
@@ -76,22 +98,10 @@ sections:
         text: Social Justice Sorcerer
         image: assets/img/members/Grifith.png
         url: 'https://samorege.github.io/hdxCompBlog/'
-      - title: ANDREI STOYANOW
-        text: The Code-kage
-        image: assets/img/members/Andrei.jpg
-        url: 'https://astoyanow.github.io/mysite/'
-      - title: IAN CAMPBELL
-        text: Finds Computers Fun
-        image: assets/img/members/Ian.jpg
-        url: 'https://ianc02.github.io/'
       - title: VI NGUYEN
         text: Just Wants One More Cat
         image: assets/img/members/Vi.jpeg
         url: 'https://nguyenvvv.github.io/csci340blog/about/'
-      - title: JONATHON QUALLS
-        text: Game Design Guy
-        image: assets/img/members/Jonathon.jpg
-        url: 'https://jqual1.github.io/blog/'
 
   - type: timeline.html
     section_id: timeline
@@ -140,5 +150,9 @@ sections:
       icon: fa-facebook
       icon_type: fab
       url: 'https://www.facebook.com/discotraystudios/'
+    - title: Itch.io
+      icon: fa-itch-io
+      icon_type: fab
+      url: 'https://discotraystudios.itch.io/'
 
 ---
