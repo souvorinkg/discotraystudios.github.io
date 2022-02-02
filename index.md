@@ -71,7 +71,7 @@ sections:
       - title: CONNOR ESCAJEDA
         text: Biiiig Track Guy
         image: assets/img/members/Connor.jpg
-        url: 'https://connorescajeda.github.io/blog/'
+        url: 'https://connorescajeda.github.io/blog'
       - title: JONATHON QUALLS
         text: Game Design Guy
         image: assets/img/members/Jonathon.jpg
