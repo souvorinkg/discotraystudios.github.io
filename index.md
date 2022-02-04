@@ -37,29 +37,29 @@ sections:
         icon: fa-gem text-info
         image: assets/img/logo5.png
         url: 2020/11/04/hdx-assessment.html
-        
+
       - title: Astronomical Bodies
         text: A 2D physics game in space.
         icon: fa-gem text-info
-        image: assets/img/posts/ABicon
+        image: assets/img/posts/ABicon.png
         url: 2021/10/18/gdab.html
 
       - title: ChemSim
         text: An educational tool to practice the change in values after reactions.
         icon: fa-gem text-info
-        image: assets/img/posts/CSicon
+        image: assets/img/posts/CSicon.png
         url: 2021/11/07/gdcs.html
 
       - title: Climate Goes Political
         text: A turn-based game where you discuss with your fellow countries whether or not to decrease emissions.
         icon: fa-gem text-info
-        image: assets/img/posts/CGPicon
+        image: assets/img/posts/CGPicon.png
         url: 2021/11/08/gdcgp.html
 
-      - title: @itsmaya
+      - title: "@itsmaya"
         text: A visual novel game where you follow the life of a Black girl named Maya as many different people as she goes through the American school system.
         icon: fa-gem text-info
-        image: assets/img/posts/IMicon
+        image: assets/img/posts/IMicon.png
         url: 2022/2/03/gdim.html
 
 
