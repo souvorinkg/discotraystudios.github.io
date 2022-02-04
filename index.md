@@ -60,7 +60,7 @@ sections:
         text: A visual novel game where you follow the life of a Black girl named Maya as many different people as she goes through the American school system.
         icon: fa-gem text-info
         image: assets/img/posts/IMicon.png
-        url: 2022/2/03/gdim.html
+        url: 2022/02/03/gdim.html
 
 
   # - type: aside.html
