@@ -62,6 +62,12 @@ sections:
         image: assets/img/posts/IMicon.png
         url: 2022/02/03/gdim.html
 
+      - title: "Good Vibes"
+        text: A mood tracker app in which you log your mood and recieve "Good Vibes." Become more aware of your mood over time and inspire yourself and others with powerful quotes.
+        icon: fa-gem text-info
+        image: assets/img/posts/GoodVibes.png
+        url: 2022/04/05/goodvibes.html
+
 
   # - type: aside.html
   #   section_id: aside
