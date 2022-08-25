@@ -106,6 +106,11 @@ sections:
         text: Game Design Guy
         image: assets/img/members/Jonathon.jpg
         url: 'https://jqual1.github.io/blog/'
+      - title: OLIVIA LARSON
+        text: Likes Java in a Cup and on the Screen
+        image: assets/img/members/Olivia.png
+        url: 'https://larsonog.github.io/blog/'
+
 
   - type: members.html
     section_id: members
