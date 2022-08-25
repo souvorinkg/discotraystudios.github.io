@@ -102,7 +102,7 @@ sections:
         url: 'https://jqual1.github.io/blog/'
       - title: OLIVIA LARSON
         text: Likes Java in a Cup and on the Screen
-        image: assets/img/members/Olivia.png
+        image: assets/img/members/Olivia.jpg
         url: 'https://larsonog.github.io/blog/'
 
 
