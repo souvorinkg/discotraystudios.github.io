@@ -86,10 +86,6 @@ sections:
         text: Very Fond of Lemurs
         image: assets/img/members/DrGoadrich.png
         url: 'http://mark.goadrich.com/'
-      - title: ANDREW EVELD
-        text: Small Town Computer Boy
-        image: assets/img/members/Andrew.jpg
-        url: 'https://andreweveld.github.io/csci340blog/index.html'
       - title: ANDREI STOYANOW
         text: The Code-kage
         image: assets/img/members/Andrei.jpg
@@ -121,6 +117,10 @@ sections:
         text: Three Raccoons in a Trench Coat
         image: assets/img/members/Lucy.png
         url: 'https://lucylyon.github.io/'
+      - title: ANDREW EVELD
+        text: Small Town Computer Boy
+        image: assets/img/members/Andrew.jpg
+        url: 'https://andreweveld.github.io/csci340blog/index.html'
       - title: INNOCENT NSABIMANA
         text: Technology Enthusiast
         image: assets/img/members/Innocent.jpg
@@ -163,6 +163,10 @@ sections:
         title: >+
           [November 2020 - We Started Streaming!](https://discotraystudios.github.io/2020/11/04/streaming.html)
         text: We created a Twitch account to review educational games
+      - image: assets/img/posts/GoodVibes.png
+        title: >+
+          [March 2022 - Good Vibes!](https://discotraystudios.github.io/2020/11/04/streaming.html)
+        text: We released a mood tracker app in which you log your mood and recieve "Good Vibes." Become more aware of your mood over time and inspire yourself and others with powerful quotes.
 
 
   - type: contact.html
