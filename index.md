@@ -110,6 +110,10 @@ sections:
         text: Likes Java in a Cup and on the Screen
         image: assets/img/members/Olivia.jpg
         url: 'https://larsonog.github.io/blog/'
+        - title: LUCY LYON
+        text: Three Raccoons in a Trench Coat
+        image: assets/img/members/Lucy.png
+        url: 'https://lucylyon.github.io/'
 
 
   - type: members.html
@@ -117,10 +121,6 @@ sections:
     title: Our Alumni!
     background_style: bg-warning text-white
     members:
-      - title: LUCY LYON
-        text: Three Raccoons in a Trench Coat
-        image: assets/img/members/Lucy.png
-        url: 'https://lucylyon.github.io/'
       - title: INNOCENT NSABIMANA
         text: Technology Enthusiast
         image: assets/img/members/Innocent.jpg
