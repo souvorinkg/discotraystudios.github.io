@@ -110,7 +110,7 @@ sections:
         text: Likes Java in a Cup and on the Screen
         image: assets/img/members/Olivia.jpg
         url: 'https://larsonog.github.io/blog/'
-        - title: LUCY LYON
+      - title: LUCY LYON
         text: Three Raccoons in a Trench Coat
         image: assets/img/members/Lucy.jpeg
         url: 'https://lucylyon.github.io/'
