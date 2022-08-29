@@ -112,7 +112,7 @@ sections:
         url: 'https://larsonog.github.io/blog/'
         - title: LUCY LYON
         text: Three Raccoons in a Trench Coat
-        image: assets/img/members/Lucy.png
+        image: assets/img/members/Lucy.jpeg
         url: 'https://lucylyon.github.io/'
 
 
