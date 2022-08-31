@@ -114,6 +114,10 @@ sections:
         text: Three Raccoons in a Trench Coat
         image: assets/img/members/Lucy.jpeg
         url: 'https://lucylyon.github.io/'
+      - title: MATTHEW KALAHIKI
+        text: NullPointerException
+        image: assets/img/members/Matthew.jpg
+        url: 'https://matthew-kalahiki.github.io/'
 
 
   - type: members.html
