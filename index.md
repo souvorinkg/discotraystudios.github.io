@@ -110,6 +110,11 @@ sections:
         text: Likes Java in a Cup and on the Screen
         image: assets/img/members/Olivia.jpg
         url: 'https://larsonog.github.io/blog/'
+      - title: Matthew Kalahiki
+        text: NullPointerException
+        image: assets/img/members/Matthew.jpg
+        url: 'https://matthew-kalahiki.github.io/'
+
 
 
   - type: members.html
