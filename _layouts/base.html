@@ -7,7 +7,14 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-  <title>{% assign title_is_not_empty = page.title | is_not_empty %}{% if title_is_not_empty %}{{ page.title }} - {% endif %}{{ site.title }}</title>
+  <title>
+    {% assign title_is_not_empty = page.title | is_not_empty %}
+    {% if title_is_not_empty %}
+      {{ page.title }}
+    {% else %}
+      {{""}}
+    {% endif %}{{ site.title }}
+  </title>
   <!-- Favicon-->
   <link rel="icon" type="image/x-icon" href="/assets/img/DiscoTray_logo_bling-2.png" />
   <!-- Font Awesome icons (free version)-->

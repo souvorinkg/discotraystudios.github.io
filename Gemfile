@@ -13,3 +13,5 @@ end
 
 
 gem "webrick", "~> 1.7"
+
+gem "rexml", "~> 3.2"
