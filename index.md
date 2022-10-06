@@ -14,7 +14,7 @@ sections:
     section_id: about
     background_style: bg-primary
     title: Our Mission
-    text: Disco Tray Studios is a community-focused software development initiative at Hendrix College in Conway, Arkansas. We are five students led by Professor of Computer Science, Dr. Mark Goadrich. This project aims to empower students in developing interactive educational games for social good and provide opportunities for student to execute and complete longer-term software development projects that support the technological needs of the local community.
+    text: Nonprofit organizations increasingly rely on technology, however, their budgets for technology improvements or new ventures are typically small or nonexistent. Disco Tray Studios at Hendrix College creates software for community partners to support their mission and workflow by providing free prototyping and initial development through utilizing the technology skills of our computer science students. We create interactive websites that help organize and share information and manage complex systems, mobile applications to connect users with resources and information, and educational games to promote empathy and learning.
     # actions:
     #   - title: Get Started!
     #     url: '#page-top'
@@ -30,43 +30,49 @@ sections:
         text: My Life in Months is a website that allows you to make a chart of your life throughout the months.
         icon: fa-gem text-info
         image: assets/img/logo500.png
-        url: 2020/09/08/mlim.html
+        url: https://discotraystudios.github.io/my-life-in-months/
 
-      - title: Hendrix Assesment
+      - title: Hendrix Assessment
         text: A website for all Hendrix professors to assess how many students met certain learning goals at the end of the semeter.
         icon: fa-gem text-info
-        image: assets/img/logo5.png
+        image: assets/img/hdxlogo7.png
         url: 2020/11/04/hdx-assessment.html
 
       - title: Astronomical Bodies
         text: A 2D physics game in space.
         icon: fa-gem text-info
         image: assets/img/posts/ABicon.png
-        url: 2021/10/18/gdab.html
+        url: https://discotraystudios.itch.io/astronomical-bodies
 
       - title: ChemSim
         text: An educational tool to practice the change in values after reactions.
         icon: fa-gem text-info
         image: assets/img/posts/CSicon.png
-        url: 2021/11/07/gdcs.html
+        url: https://discotraystudios.itch.io/chemsim
 
       - title: Climate Goes Political
         text: A turn-based game where you discuss with your fellow countries whether or not to decrease emissions.
         icon: fa-gem text-info
         image: assets/img/posts/CGPicon.png
-        url: 2021/11/08/gdcgp.html
+        url: https://discotraystudios.itch.io/climate-goes-political
 
       - title: "@itsmaya"
         text: A visual novel game where you follow the life of a Black girl named Maya as many different people as she goes through the American school system.
         icon: fa-gem text-info
         image: assets/img/posts/IMicon.png
-        url: 2022/02/03/gdim.html
+        url: https://discotraystudios.itch.io/itsmaya
 
       - title: "Good Vibes"
         text: A mood tracker app in which you log your mood and recieve "Good Vibes." Become more aware of your mood over time and inspire yourself and others with powerful quotes.
         icon: fa-gem text-info
         image: assets/img/posts/GoodVibes.png
-        url: 2022/04/05/goodvibes.html
+        url: https://discotraystudios.github.io/good-vibes/
+
+      - title: "Cultivating Competencies"
+        text: Play your first two years as a student trying to succeed at Hendrix, learning about career competencies along the way.
+        icon: fa-gem text-info
+        image: assets/img/CSCC.png
+        url: https://discotraystudios.itch.io/cultivating-competencies
 
 
   # - type: aside.html
@@ -108,7 +114,7 @@ sections:
         url: 'https://larsonog.github.io/blog/'
       - title: LUCY LYON
         text: Three Raccoons in a Trench Coat
-        image: assets/img/members/Lucy.jpeg
+        image: assets/img/members/Lucy.png
         url: 'https://lucylyon.github.io/'
       - title: MATTHEW KALAHIKI
         text: NullPointerException
@@ -148,17 +154,17 @@ sections:
     background_style: bg-dark text-primary
     # last_image: assets/img/tdc.png
     actions:
-      - image: assets/img/bland-logo.png
+      - image: assets/img/bland-logo-square.png
         title: >+
           [July 2020 - Founded](https://discotraystudios.github.io/2020/09/06/disco.html)
         text: >-
-          Dr. Goadrich got funding to hire 5 students for the school year
+          Dr. Goadrich got funding to hire 5 students for the school year.
       - image: assets/img/logo500.png
         title: >+
           [September 2020 - My Life In Months Completed](https://discotraystudios.github.io/2020/09/08/mlim.html)
         text: >-
-          A website where you can document your life throughout the months
-      - image: assets/img/hdxlogo.jpg
+          A website where you can document your life throughout the months.
+      - image: assets/img/hdxlogo7.png
         title: >+
          [October 2020 - Hendrix Assessment Started](https://discotraystudios.github.io/2020/11/04/hdx-assessment.html)
         text: >-
@@ -166,11 +172,31 @@ sections:
       - image: assets/img/twitchlogo.jpg
         title: >+
           [November 2020 - We Started Streaming!](https://discotraystudios.github.io/2020/11/04/streaming.html)
-        text: We created a Twitch account to review educational games
+        text: We created a Twitch account to review educational games.
+      - image: assets/img/posts/ABicon.png
+        title: >+
+          [March 2021 - Educational Games](https://discotraystudios.github.io/2020/11/04/streaming.html)
+        text: We coordinated with faculty and staff at Hendrix in Chemistry, Sociology, Physics, Economics, Career Services, and the Windgate Museum, to create educational games and simulations.
+      - image: assets/img/Database.png
+        title: >+
+          [September 2021 - Websites and Databases]()
+        text: We began partnerships on and off campus to create websites and databases.
       - image: assets/img/posts/GoodVibes.png
         title: >+
-          [March 2022 - Good Vibes!](https://discotraystudios.github.io/2020/11/04/streaming.html)
+          [March 2022 - Good Vibes!](https://discotraystudios.github.io/2022/04/05/goodvibes.html)
         text: We released a mood tracker app in which you log your mood and recieve "Good Vibes." Become more aware of your mood over time and inspire yourself and others with powerful quotes.
+      - image: assets/img/posts/CGPicon.png
+        title: >+
+          [April 2022 - Games Released](https://discotraystudios.github.io/2021/11/08/gdcgp.html)
+        text: We released Climate Goes Political, Astronomical Bodies, @itsmaya, and ChemSim, for our partners.
+      - image: assets/img/PMLlogo.png
+        title: >+
+          [August 2022 - Play Make Learn!](https://discotraystudios.github.io/2022/08/08/pml.html)
+        text: We presented our framework for educational game development with community partners at the Play Make Learn conference in Madison, WI.
+      - image: assets/img/CSCC.png
+        title: >+
+          [October 2022 - Cultivating Competencies!](https://discotraystudios.github.io/2020/11/04/streaming.html)
+        text: We released a game guiding students through their first two years as a Hendrix student and the potentail for engaging with career competencies.
 
 
   - type: contact.html

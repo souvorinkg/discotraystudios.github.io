@@ -9,7 +9,8 @@
           {% for action in section.actions %}
           <li class="{% cycle 'timeline-normal', 'timeline-inverted' %}">
             <div>
-            <img style='height:70%'; class="rounded img-responsive timeline-image" src="{{ action.image }}" alt="">
+            <img class="fa fa-4x text-primary img-fluid mb-2 rounded timeline-image" height="100em" width="100em" src="{{ action.image }}" alt="{{ action.title }}">
+
             </div>
             <div class="timeline-panel">
               <div class="timeline-heading">
