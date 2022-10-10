@@ -56,12 +56,6 @@ sections:
         image: assets/img/posts/CGPicon.png
         url: https://discotraystudios.itch.io/climate-goes-political
 
-      - title: "@itsmaya"
-        text: A visual novel game where you follow the life of a Black girl named Maya as many different people as she goes through the American school system.
-        icon: fa-gem text-info
-        image: assets/img/posts/IMicon.png
-        url: https://discotraystudios.itch.io/itsmaya
-
       - title: "Good Vibes"
         text: A mood tracker app in which you log your mood and recieve "Good Vibes." Become more aware of your mood over time and inspire yourself and others with powerful quotes.
         icon: fa-gem text-info
@@ -175,11 +169,11 @@ sections:
         text: We created a Twitch account to review educational games.
       - image: assets/img/posts/ABicon.png
         title: >+
-          [March 2021 - Educational Games](https://discotraystudios.github.io/2020/11/04/streaming.html)
+          March 2021 - Educational Games
         text: We coordinated with faculty and staff at Hendrix in Chemistry, Sociology, Physics, Economics, Career Services, and the Windgate Museum, to create educational games and simulations.
       - image: assets/img/Database.png
         title: >+
-          [September 2021 - Websites and Databases]()
+          September 2021 - Websites and Databases
         text: We began partnerships on and off campus to create websites and databases.
       - image: assets/img/posts/GoodVibes.png
         title: >+
@@ -187,15 +181,15 @@ sections:
         text: We released a mood tracker app in which you log your mood and recieve "Good Vibes." Become more aware of your mood over time and inspire yourself and others with powerful quotes.
       - image: assets/img/posts/CGPicon.png
         title: >+
-          [April 2022 - Games Released](https://discotraystudios.github.io/2021/11/08/gdcgp.html)
-        text: We released Climate Goes Political, Astronomical Bodies, @itsmaya, and ChemSim, for our partners.
+          April 2022 - Games Released
+        text: We released Climate Goes Political, Astronomical Bodies, and ChemSim, for our partners.
       - image: assets/img/PMLlogo.png
         title: >+
           [August 2022 - Play Make Learn!](https://discotraystudios.github.io/2022/08/08/pml.html)
         text: We presented our framework for educational game development with community partners at the Play Make Learn conference in Madison, WI.
       - image: assets/img/CSCC.png
         title: >+
-          [October 2022 - Cultivating Competencies!](https://discotraystudios.github.io/2020/11/04/streaming.html)
+          October 2022 - Cultivating Competencies!
         text: We released a game guiding students through their first two years as a Hendrix student and the potentail for engaging with career competencies.
 
 
@@ -204,7 +198,7 @@ sections:
     title: Let's Get In Touch!
     background_style: bg-warning
     text: >-
-      Ready to start your next project with us? Send us a message
+      Ready to start your next project with us? Send us a message at discotraystudios@gmail.com
       and we will get back to you as soon as possible!
     actions:
     - title: Github
