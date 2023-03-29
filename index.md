@@ -191,6 +191,10 @@ sections:
         title: >+
           October 2022 - Cultivating Competencies!
         text: We released a game guiding students through their first two years as a Hendrix student and the potentail for engaging with career competencies.
+      - image: assets/img/CSCC.png
+        title: >+
+          October 2022 - Disco Tray on KATV!
+        text: We were interviewed on [KATV](https://katv.com/community/good-morning-arkansas/disco-tray-studios-community-focused-software-development-by-hendrix-college-students) as part of the Hendrix's  Day in their Fall College series, telling the story of our founding and some of the projects we have created.
 
 
   - type: contact.html
