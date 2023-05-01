@@ -229,5 +229,9 @@ sections:
       icon: fa-itch-io
       icon_type: fab
       url: 'https://discotraystudios.itch.io/'
+    - title: Linkedin
+      icon: fa-linkedin
+      icon_type: fab
+      url: 'https://www.linkedin.com/company/91125969/'
 
 ---
