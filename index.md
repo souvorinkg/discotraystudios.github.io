@@ -195,6 +195,14 @@ sections:
         title: >+
           October 2022 - Disco Tray on KATV!
         text: We were interviewed on [KATV](https://katv.com/community/good-morning-arkansas/disco-tray-studios-community-focused-software-development-by-hendrix-college-students) as part of the Hendrix's  Day in their Fall College series, telling the story of our founding and some of the projects we have created.
+      - image: assets/img/arboretum.png
+        title: >+
+          April 2023 - Hendrix Arboretum!
+        text: We released the first version of the [Hendrix Arboretum](https://arboretum.hendrix.edu) which catalogues over 1000 trees on campus!
+      - image: assets/img/vitamin.png
+        title: >+
+          April 2023 - VITAmin Tax Accounting!
+        text: We released [VITAmin](https://github.com/DiscoTrayStudios/VITAmin/), a desktop application for organizing an aggregate of tax return information for users involved in helping and handling tax returns for clients.
 
 
   - type: contact.html
