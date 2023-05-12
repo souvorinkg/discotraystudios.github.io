@@ -86,18 +86,6 @@ sections:
         text: Very Fond of Lemurs
         image: assets/img/members/DrGoadrich.png
         url: 'http://mark.goadrich.com/'
-      - title: ANDREI STOYANOW
-        text: The Code-kage
-        image: assets/img/members/Andrei.jpg
-        url: 'https://astoyanow.github.io/mysite/'
-      - title: IAN CAMPBELL
-        text: Finds Computers Fun
-        image: assets/img/members/Ian.jpg
-        url: 'https://ianc02.github.io/'
-      - title: CONNOR ESCAJEDA
-        text: Biiiig Track Guy
-        image: assets/img/members/Connor.jpg
-        url: 'https://connorescajeda.github.io/blog'
       - title: JONATHON QUALLS
         text: Game Design Guy
         image: assets/img/members/Jonathon.jpg
@@ -106,10 +94,6 @@ sections:
         text: Likes Java in a Cup and on the Screen
         image: assets/img/members/Olivia.jpg
         url: 'https://larsonog.github.io/blog/'
-      - title: LUCY LYON
-        text: Three Raccoons in a Trench Coat
-        image: assets/img/members/Lucy.png
-        url: 'https://lucylyon.github.io/'
       - title: MATTHEW KALAHIKI
         text: NullPointerException
         image: assets/img/members/Matthew.jpg
@@ -121,10 +105,30 @@ sections:
     title: Our Alumni!
     background_style: bg-warning text-white
     members:
+      - title: IAN CAMPBELL
+        text: Finds Computers Fun
+        image: assets/img/members/Ian.jpg
+        url: 'https://ianc02.github.io/'
+      - title: CONNOR ESCAJEDA
+        text: Biiiig Track Guy
+        image: assets/img/members/Connor.jpg
+        url: 'https://connorescajeda.github.io/blog'
+      - title: LUCY LYON
+        text: Three Raccoons in a Trench Coat
+        image: assets/img/members/Lucy.png
+        url: 'https://lucylyon.github.io/'
+      - title: ANDREI STOYANOW
+        text: The Code-kage
+        image: assets/img/members/Andrei.jpg
+        url: 'https://astoyanow.github.io/mysite/'
       - title: ANDREW EVELD
         text: Small Town Computer Boy
         image: assets/img/members/Andrew.jpg
         url: 'https://andreweveld.github.io/csci340blog/index.html'
+      - title: VI NGUYEN
+        text: Just Wants One More Cat
+        image: assets/img/members/Vi.jpeg
+        url: 'https://nguyenvvv.github.io/csci340blog/about/'
       - title: INNOCENT NSABIMANA
         text: Technology Enthusiast
         image: assets/img/members/Innocent.jpg
@@ -137,10 +141,6 @@ sections:
         text: Social Justice Sorcerer
         image: assets/img/members/Grifith.png
         url: 'https://samorege.github.io/hdxCompBlog/'
-      - title: VI NGUYEN
-        text: Just Wants One More Cat
-        image: assets/img/members/Vi.jpeg
-        url: 'https://nguyenvvv.github.io/csci340blog/about/'
 
   - type: timeline.html
     section_id: timeline
