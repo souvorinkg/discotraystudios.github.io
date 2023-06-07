@@ -98,6 +98,10 @@ sections:
         text: NullPointerException
         image: assets/img/members/Matthew.jpg
         url: 'https://matthew-kalahiki.github.io/'
+      - title: TED BJURLIN
+        text: Not a Figment of Your Imagination
+        image: assets/img/members/Ted.png
+        url: 'https://github.com/tedbjurlin'
 
 
   - type: members.html
