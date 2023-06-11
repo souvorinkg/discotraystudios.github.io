@@ -102,10 +102,10 @@ sections:
         text: Not a Figment of Your Imagination
         image: assets/img/members/Ted.png
         url: 'https://github.com/tedbjurlin'
-	  - title: SIMON REID
-		text: Fighting Demons in Dependency Hell
-		image: assets/img/members/Simon.jpg
-		url: 'https://reidst.github.io/blog/'
+      - title: SIMON REID
+        text: Fighting Demons in Dependency Hell
+        image: assets/img/members/Simon.jpg
+        url: 'https://reidst.github.io/blog/'
 
 
   - type: members.html
