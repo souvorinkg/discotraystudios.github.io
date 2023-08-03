@@ -26,41 +26,11 @@ sections:
     title: Our Projects
     background_style: bg-warning
     services:
-      - title: My Life In Months
-        text: My Life in Months is a website that allows you to make a chart of your life throughout the months.
+      - title: "Hendrix Arboretum"
+        text: Find a tree tag at Hendrix, and search to learn more information about it.
         icon: fa-gem text-info
-        image: assets/img/logo500.png
-        url: https://discotraystudios.github.io/my-life-in-months/
-
-      - title: Hendrix Assessment
-        text: A website for all Hendrix professors to assess how many students met certain learning goals at the end of the semeter.
-        icon: fa-gem text-info
-        image: assets/img/hdxlogo7.png
-        url: 2020/11/04/hdx-assessment.html
-
-      - title: Astronomical Bodies
-        text: A 2D physics game in space.
-        icon: fa-gem text-info
-        image: assets/img/posts/ABicon.png
-        url: https://discotraystudios.itch.io/astronomical-bodies
-
-      - title: ChemSim
-        text: An educational tool to practice the change in values after reactions.
-        icon: fa-gem text-info
-        image: assets/img/posts/CSicon.png
-        url: https://discotraystudios.itch.io/chemsim
-
-      - title: Climate Goes Political
-        text: A turn-based game where you discuss with your fellow countries whether or not to decrease emissions.
-        icon: fa-gem text-info
-        image: assets/img/posts/CGPicon.png
-        url: https://discotraystudios.itch.io/climate-goes-political
-
-      - title: "Good Vibes"
-        text: A mood tracker app in which you log your mood and recieve "Good Vibes." Become more aware of your mood over time and inspire yourself and others with powerful quotes.
-        icon: fa-gem text-info
-        image: assets/img/posts/GoodVibes.png
-        url: https://discotraystudios.github.io/good-vibes/
+        image: assets/img/arboretum.png
+        url: https://arboretum.hendrix.edu
 
       - title: "Cultivating Competencies"
         text: Play your first two years as a student trying to succeed at Hendrix, learning about career competencies along the way.
@@ -68,6 +38,41 @@ sections:
         image: assets/img/CSCC.png
         url: https://discotraystudios.itch.io/cultivating-competencies
 
+      - title: "Good Vibes"
+        text: A mood tracker app in which you log your mood and recieve "Good Vibes." Become more aware of your mood over time and inspire yourself and others with powerful quotes.
+        icon: fa-gem text-info
+        image: assets/img/posts/GoodVibes.png
+        url: https://discotraystudios.github.io/good-vibes/
+
+      - title: Climate Goes Political
+        text: A turn-based game where you discuss with your fellow countries whether or not to decrease emissions.
+        icon: fa-gem text-info
+        image: assets/img/posts/CGPicon.png
+        url: https://discotraystudios.itch.io/climate-goes-political
+
+      - title: ChemSim
+        text: An educational tool to practice the change in values after reactions.
+        icon: fa-gem text-info
+        image: assets/img/posts/CSicon.png
+        url: https://discotraystudios.itch.io/chemsim
+
+      - title: Astronomical Bodies
+        text: A 2D physics game in space.
+        icon: fa-gem text-info
+        image: assets/img/posts/ABicon.png
+        url: https://discotraystudios.itch.io/astronomical-bodies
+
+      - title: Hendrix Assessment
+        text: A website for all Hendrix professors to assess how many students met certain learning goals at the end of the semeter.
+        icon: fa-gem text-info
+        image: assets/img/hdxlogo7.png
+        url: 2020/11/04/hdx-assessment.html
+
+      - title: My Life In Months
+        text: My Life in Months is a website that allows you to make a chart of your life throughout the months.
+        icon: fa-gem text-info
+        image: assets/img/logo500.png
+        url: https://discotraystudios.github.io/my-life-in-months/
 
   # - type: aside.html
   #   section_id: aside
