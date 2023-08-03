@@ -100,7 +100,7 @@ sections:
         url: 'https://matthew-kalahiki.github.io/'
       - title: TED BJURLIN
         text: Not a Figment of Your Imagination
-        image: assets/img/members/Ted.png
+        image: assets/img/members/Ted.jpg
         url: 'https://github.com/tedbjurlin'
       - title: SIMON REID
         text: Fighting Demons in Dependency Hell
