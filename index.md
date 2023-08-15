@@ -103,6 +103,14 @@ sections:
         text: NullPointerException
         image: assets/img/members/Matthew.jpg
         url: 'https://matthew-kalahiki.github.io/'
+
+
+
+  - type: members.html
+    section_id: members
+    title: Our Alumni!
+    background_style: bg-warning text-white
+    members:
       - title: TED BJURLIN
         text: Not a Figment of Your Imagination
         image: assets/img/members/Ted.jpg
@@ -111,13 +119,6 @@ sections:
         text: Fighting Demons in Dependency Hell
         image: assets/img/members/Simon.jpg
         url: 'https://reidst.github.io/blog/'
-
-
-  - type: members.html
-    section_id: members
-    title: Our Alumni!
-    background_style: bg-warning text-white
-    members:
       - title: IAN CAMPBELL
         text: Finds Computers Fun
         image: assets/img/members/Ian.jpg
