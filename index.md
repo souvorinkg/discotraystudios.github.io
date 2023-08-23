@@ -107,6 +107,10 @@ sections:
         text: Mysterious and Easily Startled
         image: assets/img/members/Noah.png
         url: 'https://brimstonetrader.github.io/blog/'
+      - title: ISAAC KHOUNBORINE
+        text: It worked in my Imagination
+        image: assets/img/members/Isaac.jpg
+        url: 'https://khounborineii.github.io/blog/'
 
 
 
