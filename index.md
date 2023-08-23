@@ -103,6 +103,10 @@ sections:
         text: NullPointerException
         image: assets/img/members/Matthew.jpg
         url: 'https://matthew-kalahiki.github.io/'
+      - title: NOAH MORRIS
+        text: Mysterious and Easily Startled
+        image: assets/img/members/Noah.png
+        url: 'https://brimstonetrader.github.io/blog/'
 
 
 
