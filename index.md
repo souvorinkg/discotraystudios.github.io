@@ -106,7 +106,7 @@ sections:
       - title: NOAH MORRIS
         text: Mysterious and Easily Startled
         image: assets/img/members/Noah.png
-        url: 'https://brimstonetrader.github.io/blog/'
+        url: 'https://brimstonetrader.github.io/archive/'
 
 
 
