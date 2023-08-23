@@ -26,41 +26,11 @@ sections:
     title: Our Projects
     background_style: bg-warning
     services:
-      - title: My Life In Months
-        text: My Life in Months is a website that allows you to make a chart of your life throughout the months.
+      - title: "Hendrix Arboretum"
+        text: Find a tree tag at Hendrix, and search to learn more information about it.
         icon: fa-gem text-info
-        image: assets/img/logo500.png
-        url: https://discotraystudios.github.io/my-life-in-months/
-
-      - title: Hendrix Assessment
-        text: A website for all Hendrix professors to assess how many students met certain learning goals at the end of the semeter.
-        icon: fa-gem text-info
-        image: assets/img/hdxlogo7.png
-        url: 2020/11/04/hdx-assessment.html
-
-      - title: Astronomical Bodies
-        text: A 2D physics game in space.
-        icon: fa-gem text-info
-        image: assets/img/posts/ABicon.png
-        url: https://discotraystudios.itch.io/astronomical-bodies
-
-      - title: ChemSim
-        text: An educational tool to practice the change in values after reactions.
-        icon: fa-gem text-info
-        image: assets/img/posts/CSicon.png
-        url: https://discotraystudios.itch.io/chemsim
-
-      - title: Climate Goes Political
-        text: A turn-based game where you discuss with your fellow countries whether or not to decrease emissions.
-        icon: fa-gem text-info
-        image: assets/img/posts/CGPicon.png
-        url: https://discotraystudios.itch.io/climate-goes-political
-
-      - title: "Good Vibes"
-        text: A mood tracker app in which you log your mood and recieve "Good Vibes." Become more aware of your mood over time and inspire yourself and others with powerful quotes.
-        icon: fa-gem text-info
-        image: assets/img/posts/GoodVibes.png
-        url: https://discotraystudios.github.io/good-vibes/
+        image: assets/img/arboretum.png
+        url: https://arboretum.hendrix.edu
 
       - title: "Cultivating Competencies"
         text: Play your first two years as a student trying to succeed at Hendrix, learning about career competencies along the way.
@@ -68,6 +38,41 @@ sections:
         image: assets/img/CSCC.png
         url: https://discotraystudios.itch.io/cultivating-competencies
 
+      - title: "Good Vibes"
+        text: A mood tracker app in which you log your mood and recieve "Good Vibes." Become more aware of your mood over time and inspire yourself and others with powerful quotes.
+        icon: fa-gem text-info
+        image: assets/img/posts/GoodVibes.png
+        url: https://discotraystudios.github.io/good-vibes/
+
+      - title: Climate Goes Political
+        text: A turn-based game where you discuss with your fellow countries whether or not to decrease emissions.
+        icon: fa-gem text-info
+        image: assets/img/posts/CGPicon.png
+        url: https://discotraystudios.itch.io/climate-goes-political
+
+      - title: ChemSim
+        text: An educational tool to practice the change in values after reactions.
+        icon: fa-gem text-info
+        image: assets/img/posts/CSicon.png
+        url: https://discotraystudios.itch.io/chemsim
+
+      - title: Astronomical Bodies
+        text: A 2D physics game in space.
+        icon: fa-gem text-info
+        image: assets/img/posts/ABicon.png
+        url: https://discotraystudios.itch.io/astronomical-bodies
+
+      - title: Hendrix Assessment
+        text: A website for all Hendrix professors to assess how many students met certain learning goals at the end of the semeter.
+        icon: fa-gem text-info
+        image: assets/img/hdxlogo7.png
+        url: 2020/11/04/hdx-assessment.html
+
+      - title: My Life In Months
+        text: My Life in Months is a website that allows you to make a chart of your life throughout the months.
+        icon: fa-gem text-info
+        image: assets/img/logo500.png
+        url: https://discotraystudios.github.io/my-life-in-months/
 
   # - type: aside.html
   #   section_id: aside
@@ -86,18 +91,6 @@ sections:
         text: Very Fond of Lemurs
         image: assets/img/members/DrGoadrich.png
         url: 'http://mark.goadrich.com/'
-      - title: ANDREI STOYANOW
-        text: The Code-kage
-        image: assets/img/members/Andrei.jpg
-        url: 'https://astoyanow.github.io/mysite/'
-      - title: IAN CAMPBELL
-        text: Finds Computers Fun
-        image: assets/img/members/Ian.jpg
-        url: 'https://ianc02.github.io/'
-      - title: CONNOR ESCAJEDA
-        text: Biiiig Track Guy
-        image: assets/img/members/Connor.jpg
-        url: 'https://connorescajeda.github.io/blog'
       - title: JONATHON QUALLS
         text: Game Design Guy
         image: assets/img/members/Jonathon.jpg
@@ -106,14 +99,11 @@ sections:
         text: Likes Java in a Cup and on the Screen
         image: assets/img/members/Olivia.jpg
         url: 'https://larsonog.github.io/blog/'
-      - title: LUCY LYON
-        text: Three Raccoons in a Trench Coat
-        image: assets/img/members/Lucy.png
-        url: 'https://lucylyon.github.io/'
       - title: MATTHEW KALAHIKI
         text: NullPointerException
         image: assets/img/members/Matthew.jpg
         url: 'https://matthew-kalahiki.github.io/'
+
 
 
   - type: members.html
@@ -121,10 +111,38 @@ sections:
     title: Our Alumni!
     background_style: bg-warning text-white
     members:
+      - title: TED BJURLIN
+        text: Not a Figment of Your Imagination
+        image: assets/img/members/Ted.jpg
+        url: 'https://github.com/tedbjurlin'
+      - title: SIMON REID
+        text: Fighting Demons in Dependency Hell
+        image: assets/img/members/Simon.jpg
+        url: 'https://reidst.github.io/blog/'
+      - title: IAN CAMPBELL
+        text: Finds Computers Fun
+        image: assets/img/members/Ian.jpg
+        url: 'https://ianc02.github.io/'
+      - title: CONNOR ESCAJEDA
+        text: Biiiig Track Guy
+        image: assets/img/members/Connor.jpg
+        url: 'https://connorescajeda.github.io/blog'
+      - title: LUCY LYON
+        text: Three Raccoons in a Trench Coat
+        image: assets/img/members/Lucy.png
+        url: 'https://lucylyon.github.io/'
+      - title: ANDREI STOYANOW
+        text: The Code-kage
+        image: assets/img/members/Andrei.jpg
+        url: 'https://astoyanow.github.io/mysite/'
       - title: ANDREW EVELD
         text: Small Town Computer Boy
         image: assets/img/members/Andrew.jpg
         url: 'https://andreweveld.github.io/csci340blog/index.html'
+      - title: VI NGUYEN
+        text: Just Wants One More Cat
+        image: assets/img/members/Vi.jpeg
+        url: 'https://nguyenvvv.github.io/csci340blog/about/'
       - title: INNOCENT NSABIMANA
         text: Technology Enthusiast
         image: assets/img/members/Innocent.jpg
@@ -137,10 +155,6 @@ sections:
         text: Social Justice Sorcerer
         image: assets/img/members/Grifith.png
         url: 'https://samorege.github.io/hdxCompBlog/'
-      - title: VI NGUYEN
-        text: Just Wants One More Cat
-        image: assets/img/members/Vi.jpeg
-        url: 'https://nguyenvvv.github.io/csci340blog/about/'
 
   - type: timeline.html
     section_id: timeline
@@ -191,6 +205,18 @@ sections:
         title: >+
           October 2022 - Cultivating Competencies!
         text: We released a game guiding students through their first two years as a Hendrix student and the potentail for engaging with career competencies.
+      - image: assets/img/katv.jpeg
+        title: >+
+          October 2022 - Disco Tray on KATV!
+        text: We were interviewed on [KATV](https://katv.com/community/good-morning-arkansas/disco-tray-studios-community-focused-software-development-by-hendrix-college-students) as part of the Hendrix's  Day in their Fall College series, telling the story of our founding and some of the projects we have created.
+      - image: assets/img/arboretum.png
+        title: >+
+          April 2023 - Hendrix Arboretum!
+        text: We released the first version of the [Hendrix Arboretum](https://arboretum.hendrix.edu) which catalogues over 1000 trees on campus!
+      - image: assets/img/vitamin.png
+        title: >+
+          April 2023 - VITAmin Tax Accounting!
+        text: We released [VITAmin](https://github.com/DiscoTrayStudios/VITAmin/), a desktop application for organizing an aggregate of tax return information for users involved in helping and handling tax returns for clients.
 
 
   - type: contact.html
@@ -217,5 +243,9 @@ sections:
       icon: fa-itch-io
       icon_type: fab
       url: 'https://discotraystudios.itch.io/'
+    - title: Linkedin
+      icon: fa-linkedin
+      icon_type: fab
+      url: 'https://www.linkedin.com/company/91125969/'
 
 ---
