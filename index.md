@@ -111,9 +111,6 @@ sections:
         text: It worked in my Imagination
         image: assets/img/members/Isaac.jpg
         url: 'https://khounborineii.github.io/blog/'
-
-
-
   - type: members.html
     section_id: members
     title: Our Alumni!
