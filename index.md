@@ -112,7 +112,7 @@ sections:
         image: assets/img/members/Isaac.jpg
         url: 'https://khounborineii.github.io/blog/'
         title: Amelia Jones
-        text: 01101000 01101001
+        text: 01001000 01101001
         image: assets/img/members/Amelia.jpg
         url: 'https://jonesamelia.github.io/blog/'
   - type: members.html
