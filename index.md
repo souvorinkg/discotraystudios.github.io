@@ -115,6 +115,10 @@ sections:
         text: Lizard of Oz
         image: assets/img/members/KolyaTemp.jpg
         url: 'https://souvorinkg.github.io/blog/'
+      - title: ZOIE KEYS
+        text: Certified Gamer
+        image: assets/img/members/Zoie.jpg
+        url: 'https://keyszl.github.io/blog/'
   - type: members.html
     section_id: members
     title: Our Alumni!
