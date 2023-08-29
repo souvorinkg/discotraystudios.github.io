@@ -111,9 +111,9 @@ sections:
         text: It worked in my Imagination
         image: assets/img/members/Isaac.jpg
         url: 'https://khounborineii.github.io/blog/'
-      - title: Kolya Souvorin
+      - title: KOLYA SOUVORIN
         text: Lizard of Oz
-        image: assets/img/members/KolyaTemp.jpg
+        image: assets/img/members/KolyaTemp.jpeg
         url: 'https://souvorinkg.github.io/blog/'
   - type: members.html
     section_id: members
