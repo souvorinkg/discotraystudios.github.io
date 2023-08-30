@@ -115,9 +115,9 @@ sections:
         text: 01001000 01101001
         image: assets/img/members/Amelia.jpg
         url: 'https://jonesamelia.github.io/blog/'
-      - title: Kolya Souvorin
+      - title: KOLYA SOUVORIN
         text: Lizard of Oz
-        image: assets/img/members/KolyaTemp.jpg
+        image: assets/img/members/KolyaTemp.jpeg
         url: 'https://souvorinkg.github.io/blog/'
       - title: ZOIE KEYS
         text: Certified Gamer
