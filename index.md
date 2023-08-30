@@ -111,10 +111,18 @@ sections:
         text: It worked in my Imagination
         image: assets/img/members/Isaac.jpg
         url: 'https://khounborineii.github.io/blog/'
+      - title: AMELIA JONES
+        text: 01001000 01101001
+        image: assets/img/members/Amelia.jpg
+        url: 'https://jonesamelia.github.io/blog/'
       - title: KOLYA SOUVORIN
         text: Lizard of Oz
         image: assets/img/members/KolyaTemp.jpeg
         url: 'https://souvorinkg.github.io/blog/'
+      - title: ZOIE KEYS
+        text: Certified Gamer
+        image: assets/img/members/Zoie.jpg
+        url: 'https://keyszl.github.io/blog/'
   - type: members.html
     section_id: members
     title: Our Alumni!
