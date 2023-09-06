@@ -117,7 +117,7 @@ sections:
         url: 'https://jonesamelia.github.io/blog/'
       - title: KOLYA SOUVORIN
         text: Lizard of Oz
-        image: assets/img/members/KolyaSquare.jpeg
+        image: assets/img/members/KolyaSquare.jpg
         url: 'https://souvorinkg.github.io/blog/'
       - title: ZOIE KEYS
         text: Certified Gamer
