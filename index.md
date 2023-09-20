@@ -104,7 +104,7 @@ sections:
         image: assets/img/members/Matthew.jpg
         url: 'https://matthew-kalahiki.github.io/'
       - title: NOAH MORRIS
-        text: Mysterious and Easily Startled
+        text: No Flex Zone
         image: assets/img/members/Noah.png
         url: 'https://brimstonetrader.github.io/archive/'
       - title: ISAAC KHOUNBORINE
