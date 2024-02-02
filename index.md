@@ -74,6 +74,12 @@ sections:
         image: assets/img/logo500.png
         url: https://discotraystudios.github.io/my-life-in-months/
 
+      - title: Hendrix Today
+        text: Hendrix Today is an app that allows you to keep up to date with community events, updates, and notices at Hendrix College.
+        icon: fa-gem text-info
+        image: assets/img/htlogoAsset2.png
+        url: https://discotraystudios.github.io/hendrix-today/
+
   # - type: aside.html
   #   section_id: aside
   #   title: Free Download at Start Bootstrap!
