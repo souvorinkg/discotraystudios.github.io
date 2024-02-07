@@ -119,6 +119,10 @@ sections:
         text: Certified Gamer
         image: assets/img/members/Zoie.jpg
         url: 'https://keyszl.github.io/blog/'
+      - title: TYRONE MASON
+        text: Living in a Virtual Insanity
+        image: assets/img/members/Mason.png
+        url: https://mason-t-demond.github.io/csci340lab5/
   - type: members.html
     section_id: members
     title: Our Alumni!
