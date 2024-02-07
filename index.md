@@ -119,6 +119,10 @@ sections:
         text: Certified Gamer
         image: assets/img/members/Zoie.jpg
         url: 'https://keyszl.github.io/blog/'
+      - title: HAYDEN MOUSSA
+        text: Gitting my money up
+        image: assets/img/members/Hayden.jpg
+        url: 'https://haydenmoussa.github.io/blog/'
   - type: members.html
     section_id: members
     title: Our Alumni!
