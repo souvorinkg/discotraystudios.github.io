@@ -132,7 +132,7 @@ sections:
         text: Not a Figment of Your Imagination
         image: assets/img/members/Ted.jpg
         url: 'https://github.com/tedbjurlin'
-      - title: SIMON REID
+      - title: KATHERINE REID
         text: Fighting Demons in Dependency Hell
         image: assets/img/members/Simon.jpg
         url: 'https://reidst.github.io/blog/'
