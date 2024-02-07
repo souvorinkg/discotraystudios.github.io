@@ -26,6 +26,13 @@ sections:
     title: Our Projects
     background_style: bg-warning
     services:
+
+      - title: Hendrix Today
+        text: Hendrix Today is an app that allows you to keep up to date with community events, updates, and notices at Hendrix College.
+        icon: fa-gem text-info
+        image: assets/img/htlogoAsset2.png
+        url: https://discotraystudios.github.io/hendrix-today/
+        
       - title: "Hendrix Arboretum"
         text: Find a tree tag at Hendrix, and search to learn more information about it.
         icon: fa-gem text-info
@@ -73,6 +80,7 @@ sections:
         icon: fa-gem text-info
         image: assets/img/logo500.png
         url: https://discotraystudios.github.io/my-life-in-months/
+
 
   # - type: aside.html
   #   section_id: aside
