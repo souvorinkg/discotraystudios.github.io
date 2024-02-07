@@ -112,16 +112,16 @@ sections:
         image: assets/img/members/Matthew.jpg
         url: 'https://matthew-kalahiki.github.io/'
       - title: NOAH MORRIS
-        text: Mysterious and Easily Startled
+        text: No Flex Zone
         image: assets/img/members/Noah.png
         url: 'https://brimstonetrader.github.io/archive/'
-      - title: ISAAC KHOUNBORINE
-        text: It worked in my Imagination
-        image: assets/img/members/Isaac.jpg
-        url: 'https://khounborineii.github.io/blog/'
-      - title: Kolya Souvorin
+      - title: AMELIA JONES
+        text: 01001000 01101001
+        image: assets/img/members/Amelia.jpg
+        url: 'https://jonesamelia.github.io/blog/'
+      - title: KOLYA SOUVORIN
         text: Lizard of Oz
-        image: assets/img/members/KolyaTemp.jpg
+        image: assets/img/members/KolyaSquare.jpg
         url: 'https://souvorinkg.github.io/blog/'
       - title: ZOIE KEYS
         text: Certified Gamer
@@ -132,11 +132,15 @@ sections:
     title: Our Alumni!
     background_style: bg-warning text-white
     members:
+      - title: ISAAC KHOUNBORINE
+        text: It worked in my Imagination
+        image: assets/img/members/Isaac.jpg
+        url: 'https://khounborineii.github.io/blog/'
       - title: TED BJURLIN
         text: Not a Figment of Your Imagination
         image: assets/img/members/Ted.jpg
         url: 'https://github.com/tedbjurlin'
-      - title: SIMON REID
+      - title: KATHERINE REID
         text: Fighting Demons in Dependency Hell
         image: assets/img/members/Simon.jpg
         url: 'https://reidst.github.io/blog/'
