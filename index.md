@@ -26,6 +26,13 @@ sections:
     title: Our Projects
     background_style: bg-warning
     services:
+
+      - title: Hendrix Today
+        text: Hendrix Today is an app that allows you to keep up to date with community events, updates, and notices at Hendrix College.
+        icon: fa-gem text-info
+        image: assets/img/htlogoAsset2.png
+        url: https://discotraystudios.github.io/hendrix-today/
+        
       - title: "Hendrix Arboretum"
         text: Find a tree tag at Hendrix, and search to learn more information about it.
         icon: fa-gem text-info
@@ -74,6 +81,7 @@ sections:
         image: assets/img/logo500.png
         url: https://discotraystudios.github.io/my-life-in-months/
 
+
   # - type: aside.html
   #   section_id: aside
   #   title: Free Download at Start Bootstrap!
@@ -119,10 +127,10 @@ sections:
         text: Certified Gamer
         image: assets/img/members/Zoie.jpg
         url: 'https://keyszl.github.io/blog/'
-      - title: HAYDEN MOUSSA
-        text: Gitting my money up
-        image: assets/img/members/Hayden.jpg
-        url: 'https://haydenmoussa.github.io/blog/'
+      - title: TYRONE MASON
+        text: Living in a Virtual Insanity
+        image: assets/img/members/Mason.png
+        url: https://mason-t-demond.github.io/csci340lab5/
   - type: members.html
     section_id: members
     title: Our Alumni!
