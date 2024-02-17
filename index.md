@@ -122,7 +122,7 @@ sections:
       - title: KOLYA SOUVORIN
         text: Lizard of Oz
         image: assets/img/members/KolyaSquare.jpg
-        url: 'https://souvorinkg.github.io/blog/'
+        url: 'https://souvorinkg.github.io/'
       - title: ZOIE KEYS
         text: Certified Gamer
         image: assets/img/members/Zoie.jpg
