@@ -131,6 +131,10 @@ sections:
         text: Living in a Virtual Insanity
         image: assets/img/members/Mason.png
         url: https://mason-t-demond.github.io/csci340lab5/
+      - title: Hayden Moussa
+        text: Gitting my Money Up
+        image: assets/img/members/Hayden.jpg
+        url: https://haydenmoussa.github.io/blog/
   - type: members.html
     section_id: members
     title: Our Alumni!
