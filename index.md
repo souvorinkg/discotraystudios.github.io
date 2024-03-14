@@ -131,10 +131,14 @@ sections:
         text: Living in a Virtual Insanity
         image: assets/img/members/Mason.png
         url: https://mason-t-demond.github.io/csci340lab5/
-      - title: Hayden Moussa
+      - title: HAYDEN MOUSSA
         text: Gitting my Money Up
         image: assets/img/members/Hayden.jpg
         url: https://haydenmoussa.github.io/blog/
+      - title: TED BJURLIN
+        text: Not a Figment of Your Imagination
+        image: assets/img/members/Ted.jpg
+        url: 'https://github.com/tedbjurlin'
   - type: members.html
     section_id: members
     title: Our Alumni!
@@ -144,10 +148,6 @@ sections:
         text: It worked in my Imagination
         image: assets/img/members/Isaac.jpg
         url: 'https://khounborineii.github.io/blog/'
-      - title: TED BJURLIN
-        text: Not a Figment of Your Imagination
-        image: assets/img/members/Ted.jpg
-        url: 'https://github.com/tedbjurlin'
       - title: KATHERINE REID
         text: Fighting Demons in Dependency Hell
         image: assets/img/members/Simon.jpg
