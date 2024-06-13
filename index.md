@@ -26,6 +26,13 @@ sections:
     title: Our Projects
     background_style: bg-warning
     services:
+
+      - title: Hendrix Today
+        text: Hendrix Today is an app that allows you to keep up to date with community events, updates, and notices at Hendrix College.
+        icon: fa-gem text-info
+        image: assets/img/htlogoAsset2.png
+        url: https://discotraystudios.github.io/hendrix-today/
+        
       - title: "Hendrix Arboretum"
         text: Find a tree tag at Hendrix, and search to learn more information about it.
         icon: fa-gem text-info
@@ -74,6 +81,7 @@ sections:
         image: assets/img/logo500.png
         url: https://discotraystudios.github.io/my-life-in-months/
 
+
   # - type: aside.html
   #   section_id: aside
   #   title: Free Download at Start Bootstrap!
@@ -104,13 +112,9 @@ sections:
         image: assets/img/members/Matthew.jpg
         url: 'https://matthew-kalahiki.github.io/'
       - title: NOAH MORRIS
-        text: Mysterious and Easily Startled
+        text: No Flex Zone
         image: assets/img/members/Noah.png
         url: 'https://brimstonetrader.github.io/archive/'
-      - title: ISAAC KHOUNBORINE
-        text: It worked in my Imagination
-        image: assets/img/members/Isaac.jpg
-        url: 'https://khounborineii.github.io/blog/'
       - title: AMELIA JONES
         text: 01001000 01101001
         image: assets/img/members/Amelia.jpg
@@ -118,21 +122,33 @@ sections:
       - title: KOLYA SOUVORIN
         text: Lizard of Oz
         image: assets/img/members/KolyaSquare.jpg
-        url: 'https://souvorinkg.github.io/blog/'
+        url: 'https://souvorinkg.github.io/'
       - title: ZOIE KEYS
         text: Certified Gamer
         image: assets/img/members/Zoie.jpg
         url: 'https://keyszl.github.io/blog/'
+      - title: TYRONE MASON
+        text: Living in a Virtual Insanity
+        image: assets/img/members/Mason.png
+        url: https://mason-t-demond.github.io/csci340lab5/
+      - title: HAYDEN MOUSSA
+        text: Gitting my Money Up
+        image: assets/img/members/Hayden.jpg
+        url: https://haydenmoussa.github.io/blog/
+      - title: TED BJURLIN
+        text: Not a Figment of Your Imagination
+        image: assets/img/members/Ted.jpg
+        url: 'https://github.com/tedbjurlin'
   - type: members.html
     section_id: members
     title: Our Alumni!
     background_style: bg-warning text-white
     members:
-      - title: TED BJURLIN
-        text: Not a Figment of Your Imagination
-        image: assets/img/members/Ted.jpg
-        url: 'https://github.com/tedbjurlin'
-      - title: SIMON REID
+      - title: ISAAC KHOUNBORINE
+        text: It worked in my Imagination
+        image: assets/img/members/Isaac.jpg
+        url: 'https://khounborineii.github.io/blog/'
+      - title: KATHERINE REID
         text: Fighting Demons in Dependency Hell
         image: assets/img/members/Simon.jpg
         url: 'https://reidst.github.io/blog/'
