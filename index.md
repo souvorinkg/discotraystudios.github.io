@@ -139,6 +139,10 @@ sections:
         text: Not a Figment of Your Imagination
         image: assets/img/members/Ted.jpg
         url: 'https://github.com/tedbjurlin'
+      - title: RYAN FULLER
+        text: Mobile Mogul, Web Warrior
+        image: assets/img/members/Ryan.jpg
+        url: 'https://ryfuller03.github.io/blog/'
   - type: members.html
     section_id: members
     title: Our Alumni!
