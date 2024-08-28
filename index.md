@@ -135,6 +135,10 @@ sections:
         text: Gitting my Money Up
         image: assets/img/members/Hayden.jpg
         url: https://haydenmoussa.github.io/blog/
+      - title: KATHERINE REID
+        text: Speaks Binary and Non-binary
+        image: assets/img/members/Katherine.jpg
+        url: 'https://reidst.github.io/blog/'
       - title: TED BJURLIN
         text: Not a Figment of Your Imagination
         image: assets/img/members/Ted.jpg
@@ -148,10 +152,6 @@ sections:
         text: It worked in my Imagination
         image: assets/img/members/Isaac.jpg
         url: 'https://khounborineii.github.io/blog/'
-      - title: KATHERINE REID
-        text: Fighting Demons in Dependency Hell
-        image: assets/img/members/Simon.jpg
-        url: 'https://reidst.github.io/blog/'
       - title: IAN CAMPBELL
         text: Finds Computers Fun
         image: assets/img/members/Ian.jpg
