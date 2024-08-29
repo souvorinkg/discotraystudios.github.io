@@ -115,6 +115,10 @@ sections:
         text: Gitting my Money Up
         image: assets/img/members/Hayden.jpg
         url: https://haydenmoussa.github.io/blog/
+      - title: RYAN FULLER
+        text: Mobile Mogul, Web Warrior
+        image: assets/img/members/Ryan.jpg
+        url: 'https://ryfuller03.github.io/blog/'
       - title: KATHERINE REID
         text: Speaks Binary and Non-binary
         image: assets/img/members/Katherine.jpg
