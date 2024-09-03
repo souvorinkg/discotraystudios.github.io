@@ -117,7 +117,7 @@ sections:
         url: https://haydenmoussa.github.io/blog/
       - title: RYAN FULLER
         text: Mobile Mogul, Web Warrior
-        image: assets/img/members/Ryan.jpg
+        image: assets/img/members/ryan.png
         url: 'https://ryfuller03.github.io/blog/'
       - title: KATHERINE REID
         text: Speaks Binary and Non-binary
