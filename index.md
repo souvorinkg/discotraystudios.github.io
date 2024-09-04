@@ -114,7 +114,7 @@ sections:
       - title: HAYDEN MOUSSA
         text: Gitting my Money Up
         image: assets/img/members/Hayden.jpg
-        url: https://haydenmoussa.github.io/blog/
+        url: https://haydenmoussa.github.io/MoussaWebSite/
       - title: RYAN FULLER
         text: Mobile Mogul, Web Warrior
         image: assets/img/members/Ryan.jpg
