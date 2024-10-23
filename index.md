@@ -123,6 +123,10 @@ sections:
         text: Speaks Binary and Non-binary
         image: assets/img/members/Katherine.jpg
         url: 'https://reidst.github.io/blog/'
+      - title: ELLIOT ALLEN
+        text: HDX World Heavyweight Champion
+        image: assets/img/members/SquareElliot.jpg
+        url: 'https://elliotallen1.github.io/blog/'
   - type: members.html
     section_id: members
     title: Our Alumni!
